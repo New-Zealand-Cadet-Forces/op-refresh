@@ -1,8 +1,12 @@
 ---
 ---
 
-$font-stack: "Neue Haas Grotesk", Helvetica, sans-serif;
+//Font variables
+$font-stack: "Neue Haas Grotesk", "Helvetica Neue", Helvetica, sans-serif;
 $primary-text-color: #333;
+$paragraph-color: rgb(102, 102, 102);
+$link-color: black;
+$nav-color: rgb(180, 180, 180);
 
 //Brand Colours
 $black: rgb(35, 31, 32);
@@ -11,7 +15,84 @@ $navy-blue: rgb(0, 62, 126);
 $army-red: rgb(211, 17, 69);
 $air-blue: rgb(19, 181, 234); 
 
+//Resets
+body {
+    margin: 0;
+}
+
+img {
+    max-width: 100%;
+}
+
+h1, h2, h3, h4 {
+    margin: 1.4em 0 1.25em;
+}
+
+p {
+    margin: 1.5em 0;
+    color: $paragraph-color;
+}
+
+a {
+    color: $link-color;
+    font-weight: 500;
+}
+
+//Main styles
 body {
   font: 100% $font-stack;
   color: $primary-text-color;
+}
+
+header h1 {
+    display: none;
+}
+
+h2 {
+    font-size: 1.9rem;
+    font-weight: 500;
+}
+
+#branding {
+    height: 100px;
+    min-width: 160px;
+    margin-right: auto;
+    padding: 10px;
+    img {
+        height: 100%;
+    }
+}
+
+nav {
+    background: black;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    a {
+        text-transform: uppercase;
+        color: white;
+        padding: 1.25rem;
+        text-decoration: none;
+    }
+}
+
+.main-nav {
+    background: $black;
+    justify-content: flex-end;
+}
+
+.corps-nav {
+    font-size: 0.8em;
+    a {
+        border-left: 1px solid #232323;
+        color: $nav-color;
+    }
+}
+
+
+main {
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 0 0.8rem;
 }
