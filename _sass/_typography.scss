@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'Haas Grot Text Web';
+    src: url("/fonts/NeueHaasGrotText-55Roman-Web.woff2");
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal; }
+  
+@font-face {
+    font-family: 'Haas Grot Text Web';
+    src: url("/fonts/NeueHaasGrotText-56Italic-Web.woff2");
+    font-weight: 400;
+    font-style: italic;
+    font-stretch: normal; }
+
+@font-face {
+    font-family: 'Haas Grot Text Web';
+    src: url("/fonts/NeueHaasGrotText-65Medium-Web.woff2");
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal; }
+
+// @font-face {
+//     font-family: 'Haas Grot Text Web';
+//     src: url("/public/fonts/NeueHaasGrotText-66MediumItalic-Web.eot");
+//     font-weight: 500;
+//     font-style: italic;
+//     font-stretch: normal; }
+
+@font-face {
+    font-family: 'Haas Grot Text Web';
+    src: url("/fonts/NeueHaasGrotText-75Bold-Web.woff2");
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal; }
+
+// @font-face {
+//     font-family: 'Haas Grot Text Web';
+//     src: url("/public/fonts/NeueHaasGrotText-76BoldItalic-Web.eot");
+//     font-weight: 700;
+//     font-style: italic;
+//     font-stretch: normal; }
+
+$font-stack: "Haas Grot Text Web", "Helvetica Neue", Helvetica, sans-serif;
