@@ -105,3 +105,15 @@ main {
     margin: 0 auto;
     padding: 0 0.8rem;
 }
+
+footer {
+    background-color: $black;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    a {
+        color: white;
+    }
+}
