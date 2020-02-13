@@ -88,6 +88,8 @@ nav {
 
 .corps-nav {
     font-size: 0.8em;
+    position: sticky;
+    top: 0px;
     a {
         border-left: 1px solid #232323;
         color: $nav-color;
