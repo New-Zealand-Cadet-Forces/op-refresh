@@ -39,14 +39,16 @@ a {
     font-weight: 500;
 }
 
-//Main styles
-body {
-  font: 100% $font-stack;
-  color: $primary-text-color;
+.screen-reader-text {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
 }
 
-header h1 {
-    display: none;
+//Main styles
+body {
+    font: 100% $font-stack;
+    color: $primary-text-color;
 }
 
 h2 {
