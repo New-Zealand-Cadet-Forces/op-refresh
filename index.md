@@ -14,4 +14,25 @@ layout: default
         <h2>Find your nearest unit</h2>
         <a id="unit-btn" href="units.html">Units near me</a>
     </section>
+    <section class="intro-description">
+        <h2>New Zealand Cadet Forces</h2>
+        <p>The New Zealand Cadet Forces (NZCF or Cadet Forces) is a voluntary military-style training organisation for New Zealand youth.</p>
+        <p>Run in a partnership between the New Zealand Defence Force (NZDF) and a number of locally appointed community organizations, it is composed of three Corps (similar to the New Zealand Defence Force): the Sea Cadet Corps (SCC), the New Zealand Cadet Corps (NZCC) and the Air Training Corps (ATC).</p>
+    </section>
+    <aside class="corps-descriptions">
+        <section class="scc-description">
+            <h3>Sea Cadet Corps</h3>
+            <p>The Sea Cadet Corps (SCC) is the maritime arm of the NZCF, and is aligned with the Royal New Zealand Navy (RNZN). The smallest of the three branches, the SCC has 16 units in all three Cadet Force areas.</p>
+            <p>The SCC training focus is maritime based, with a high level of sailing time allowing personnel to develop their skills on the water including a swimming test in the beginning of service.</p>
+        </section>
+        <section class="nzcc-description">
+            <h3>New Zealand Cadet Corps</h3>
+            <p>The New Zealand Cadet Corps (NZCC) is the land force arm of the NZCF, founded in 1864 and is aligned with the NZ Army. There are 34 units nationwide.</p>
+            <p>Cadet Corps training includes drill, first aid, land based navigation, land-based Search and Rescue, survival skills and weapons safety training. A Cadet Skills competition is held annually, pitting the units from across New Zealand against each other to find the best overall.</p>
+        </section>
+        <section class="atc-description">
+            <h3>Air Training Corps</h3>
+            <p>The Air Training Corps (ATC) is the aviation arm of the NZCF, and is aligned with the Royal New Zealand Air Force (RNZAF). Formed in September 1941 originally for the purpose of training young pilots ready for active service. There are 49 ATC Squadrons located throughout New Zealand with a vision to foster the spirit of adventure and teamwork, and to develop those qualities of mind and body essential for good citizens and leaders.</p>
+        </section>
+    </aside>
 </main>
