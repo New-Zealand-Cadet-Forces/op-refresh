@@ -81,28 +81,19 @@ nav {
 }
 
 .main-nav {
-    position: fixed;
     width: 100%;
     top: 50px;
-    background: rgba(0, 0, 0, 0.5);
+    background: rgba(0, 0, 0, 0.8);
     justify-content: flex-end;
 }
 
 .corps-nav {
     font-size: 0.8em;
-    position: sticky;
-    top: 0px;
     a {
         border-left: 1px solid #232323;
         color: $nav-color;
     }
 }
-
-// .hero {
-//     position: relative;
-//     bottom: 120px;
-//     z-index: -1;
-// }
 
 main {
     max-width: 50em;
