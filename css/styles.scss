@@ -103,12 +103,17 @@ main {
 
 footer {
     background-color: $black;
-    color: white;
+    color: $nav-color;
     padding: 10px 20px;
     margin-top: 10px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+    h4 {
+        margin: 0;
+    }
     a {
         color: white;
+        font-weight: 300;
+        font-size: 0.8em;
     }
 }
