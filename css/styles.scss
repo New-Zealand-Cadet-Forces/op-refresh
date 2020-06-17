@@ -95,6 +95,22 @@ nav {
     }
 }
 
+@media screen and (max-width: 600px) {
+    .main-nav,
+    .corps-nav {
+        a {
+            padding: 0.5em;
+        }
+    }
+    .corps-nav {
+        justify-content: baseline;
+    }
+    #branding {
+        // margin-right: 0.5em;
+        padding: 0;
+    }
+}
+
 main {
     max-width: 50em;
     margin: 0 auto;
