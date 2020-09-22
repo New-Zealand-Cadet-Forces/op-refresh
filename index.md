@@ -2,6 +2,13 @@
 layout: default
 ---
 
+<section class="intro-description">
+    <h2>New Zealand Cadet Forces</h2>
+    <p>The New Zealand Cadet Forces (NZCF or Cadet Forces) is a voluntary, uniformed organisation which provides military-style leadership, personal development opportunities and adventure based training to youth aged between 13 and 18 years old. Through its three branches- Sea Cadets, Army Cadets and Air Cadets- the Cadet Forces provides personnel with a hands on training program, while a number of local, regional and national courses provide further experience and qualifications in specific training areas.</p>
+    <p>The Cadet Forces is a non-profit organisation for the youth of New Zealand which has existed continually since 1864, and in its present form in a partnership with the New Zealand Defence Force and locally appointed community organisations since 1971.</p>
+    <p>Our aim is to instil leadership and honourable values in our youth so as to develop and enable self-disciplined, confident and responsible young New Zealanders, who come out feeling stronger than ever and are armed with skillsets that will last them a lifetime.</p>
+    <p>Our teams are committed to helping youth navigate the most formidable years in their lives while having fun in the process. Learn more about what we do and what we can offer you with this unique youth experience!</p>
+</section>
 <section id="mission">
     <h2>Our mission is developing young leaders</h2>
     <p>We develop and enable self-disciplined, confident and responsible young New Zealanders.</p>
@@ -13,13 +20,6 @@ layout: default
 <section class="find-unit">
     <h2>Find your nearest unit</h2>
     <a id="unit-btn" href="units.html">Units near me</a>
-</section>
-<section class="intro-description">
-    <h2>New Zealand Cadet Forces</h2>
-    <p>The New Zealand Cadet Forces (NZCF or Cadet Forces) is a voluntary, uniformed organisation which provides military-style leadership, personal development opportunities and adventure based training to youth aged between 13 and 18 years old. Through its three branches- Sea Cadets, Army Cadets and Air Cadets- the Cadet Forces provides personnel with a hands on training program, while a number of local, regional and national courses provide further experience and qualifications in specific training areas.</p>
-    <p>The Cadet Forces is a non-profit organisation for the youth of New Zealand which has existed continually since 1864, and in its present form in a partnership with the New Zealand Defence Force and locally appointed community organisations since 1971.</p>
-    <p>Our aim is to instil leadership and honourable values in our youth so as to develop and enable self-disciplined, confident and responsible young New Zealanders, who come out feeling stronger than ever and are armed with skillsets that will last them a lifetime.</p>
-    <p>Our teams are committed to helping youth navigate the most formidable years in their lives while having fun in the process. Learn more about what we do and what we can offer you with this unique youth experience!</p>
 </section>
 <aside class="corps-descriptions">
     <section class="scc-description">
