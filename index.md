@@ -16,8 +16,10 @@ layout: default
 </section>
 <section class="intro-description">
     <h2>New Zealand Cadet Forces</h2>
-    <p>The New Zealand Cadet Forces (NZCF or Cadet Forces) is a voluntary military-style training organisation for New Zealand youth.</p>
-    <p>Run in a partnership between the New Zealand Defence Force (NZDF) and a number of locally appointed community organizations, it is composed of three Corps (similar to the New Zealand Defence Force): the Sea Cadet Corps (SCC), the New Zealand Cadet Corps (NZCC) and the Air Training Corps (ATC).</p>
+    <p>The New Zealand Cadet Forces (NZCF or Cadet Forces) is a voluntary, uniformed organisation which provides military-style leadership, personal development opportunities and adventure based training to youth aged between 13 and 18 years old. Through its three branches- Sea Cadets, Army Cadets and Air Cadets- the Cadet Forces provides personnel with a hands on training program, while a number of local, regional and national courses provide further experience and qualifications in specific training areas.</p>
+    <p>The Cadet Forces is a non-profit organisation for the youth of New Zealand which has existed continually since 1864, and in its present form in a partnership with the New Zealand Defence Force and locally appointed community organisations since 1971.</p>
+    <p>Our aim is to instil leadership and honourable values in our youth so as to develop and enable self-disciplined, confident and responsible young New Zealanders, who come out feeling stronger than ever and are armed with skillsets that will last them a lifetime.</p>
+    <p>Our teams are committed to helping youth navigate the most formidable years in their lives while having fun in the process. Learn more about what we do and what we can offer you with this unique youth experience!</p>
 </section>
 <aside class="corps-descriptions">
     <section class="scc-description">
