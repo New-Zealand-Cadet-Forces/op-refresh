@@ -81,7 +81,8 @@ nav {
 }
 
 .main-nav {
-    position: fixed;
+    position: absolute;
+    z-index: 0;
     width: 100%;
     top: 50px;
     background: rgba(0, 0, 0, 0.5);
@@ -91,6 +92,7 @@ nav {
 .corps-nav {
     font-size: 0.8em;
     position: sticky;
+    z-index: 1;
     top: 0px;
     a {
         border-left: 1px solid #232323;
