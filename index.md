@@ -9,6 +9,9 @@ layout: default
     <p>Our aim is to instil leadership and honourable values in our youth so as to develop and enable self-disciplined, confident and responsible young New Zealanders, who come out feeling stronger than ever and are armed with skillsets that will last them a lifetime.</p>
     <p>Our teams are committed to helping youth navigate the most formidable years in their lives while having fun in the process. Learn more about what we do and what we can offer you with this unique youth experience!</p>
 </section>
+<div>
+    <img src="img/service.png" alt="placeholder for cta">
+</div>
 <aside class="corps-descriptions">
     <section class="scc-description">
         <h3>Sea Cadet Corps</h3>

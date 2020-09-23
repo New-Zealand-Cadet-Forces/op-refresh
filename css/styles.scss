@@ -45,6 +45,10 @@ a {
     left: -9999px;
 }
 
+img {
+    display: block;
+}
+
 //Main styles
 body {
     font: 100% $font-stack;
@@ -117,10 +121,17 @@ a.nav-item-em {
 // }
 
 main {
-    max-width: 50em;
-    margin: 0 auto;
-    padding: 0 0.8rem;
+    section {
+        max-width: 50em;
+        padding: 0 0.8rem;
+        margin: 100px auto;
+    }
+    img {
+        max-width: 80rem;
+        margin: 100px auto;
+    }
 }
+
 
 footer {
     background-color: $black;
@@ -131,6 +142,9 @@ footer {
     grid-template-columns: 1fr 1fr 1fr;
     a {
         color: white;
+    }
+    img {
+        display: inline;
     }
 }
 
