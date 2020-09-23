@@ -45,10 +45,6 @@ a {
     left: -9999px;
 }
 
-img {
-    display: block;
-}
-
 //Main styles
 body {
     font: 100% $font-stack;
@@ -121,6 +117,7 @@ main {
         margin: 100px auto;
     }
     img {
+        display: block;
         max-width: 80rem;
         margin: 100px auto;
     }
@@ -137,8 +134,9 @@ footer {
     a {
         color: white;
     }
-    img {
-        display: inline;
+    section {
+        max-width: 1200px;
+        margin: 0 auto;
     }
 }
 
