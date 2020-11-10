@@ -8,3 +8,5 @@ layout: default
 Our aim is to instil leadership and honourable values in our youth so as to develop and enable self-disciplined, confident and responsible young New Zealanders, who come out feeling stronger than ever and are armed with skill sets that will last them a lifetime.
 Learn more about what we do, and what we can offer you with this unique youth experience!</p>
 </section>
+
+{% include cta-image-block.html %}

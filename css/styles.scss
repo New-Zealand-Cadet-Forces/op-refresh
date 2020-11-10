@@ -1,6 +1,7 @@
 ---
 ---
 @import "typography";
+@import "cta";
 
 //Font variables
 
@@ -17,6 +18,10 @@ $army-red: rgb(211, 17, 69);
 $air-blue: rgb(19, 181, 234); 
 
 //Resets
+* {
+    box-sizing: border-box;
+}
+
 body {
     margin: 0;
 }
@@ -114,11 +119,6 @@ main {
     section {
         max-width: 50em;
         padding: 0 0.8rem;
-        margin: 100px auto;
-    }
-    img {
-        display: block;
-        max-width: 80rem;
         margin: 100px auto;
     }
 }
