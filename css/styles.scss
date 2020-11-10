@@ -1,54 +1,11 @@
 ---
 ---
+
+
+@import "brand";
+@import "resets";
 @import "typography";
 @import "cta";
-
-//Font variables
-
-$primary-text-color: #333;
-$paragraph-color: rgb(102, 102, 102);
-$link-color: black;
-$nav-color: rgb(180, 180, 180);
-
-//Brand Colours
-$black: rgb(35, 31, 32);
-$yellow: rgb(255, 228, 0);
-$navy-blue: rgb(0, 62, 126);
-$army-red: rgb(211, 17, 69);
-$air-blue: rgb(19, 181, 234); 
-
-//Resets
-* {
-    box-sizing: border-box;
-}
-
-body {
-    margin: 0;
-}
-
-img {
-    max-width: 100%;
-}
-
-h1, h2, h3, h4 {
-    margin: 1.4em 0 1.25em;
-}
-
-p {
-    margin: 1.5em 0;
-    color: $paragraph-color;
-}
-
-a {
-    color: $link-color;
-    font-weight: 500;
-}
-
-.screen-reader-text {
-    position: absolute;
-    top: -9999px;
-    left: -9999px;
-}
 
 //Main styles
 body {
