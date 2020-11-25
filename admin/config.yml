@@ -36,6 +36,18 @@ collections:
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'author' }
       - { label: 'Short Name', name: 'name', widget: 'string' }
-      - { label: 'Diplay Name', name: 'display_name', widget: 'string' }
+      - { label: 'Display Name', name: 'display_name', widget: 'string' }
       - { label: 'Position', name: 'position', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'blocks'
+    label: 'Blocks'
+    files:
+      - label: 'Call to action'
+        name: 'cta'
+        file: '_includes/cta-image-block.html'
+        fields:
+          - { label: 'SCC image', name: 'scc-img', widget: 'image' }
+          - { label: 'NZCC image', name: 'nzcc-img', widget: 'image' }
+          - { label: 'ATC image', name: 'atc-img', widget: 'image' }
+          - { label: 'Text', name: 'text', widget: 'markdown' }
+    
