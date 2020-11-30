@@ -10,3 +10,4 @@ Learn more about what we do, and what we can offer you with this unique youth ex
 </section>
 
 {% include cta-image-block.html %}
+{% include commandant-block.html %}
