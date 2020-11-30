@@ -72,11 +72,17 @@ a.nav-item-em {
     font-size: 1.2em;
 }
 
+.hero img {
+    width: 100%;
+}
+
 main {
     section {
-        max-width: 50em;
         padding: 0 0.8rem;
         margin: 100px auto;
+        &.narrow {
+            max-width: 50em;
+        }
     }
 }
 
