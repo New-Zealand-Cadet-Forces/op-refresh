@@ -1,6 +1,7 @@
 # config.yml
 # https://www.netlifycms.org/docs/jekyll/
 site_url: https://nzcf-dev.netlify.com/
+publish_mode: editorial_workflow
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
