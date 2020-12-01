@@ -56,7 +56,7 @@ collections:
     folder: 's9pages/'
     create: true
     fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'default' }
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 's9-page' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
     
