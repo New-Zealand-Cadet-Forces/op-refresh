@@ -4,7 +4,6 @@ site_url: https://nzcf-dev.netlify.com/
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
-media_folder: 'assets/uploads'
 media_folder: "img/uploads" # Folder where user uploaded files should go
 collections:
   - name: 'blog'
