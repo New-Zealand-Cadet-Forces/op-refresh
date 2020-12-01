@@ -9,4 +9,6 @@ As a member of the S9 team, you can add a content page, including images, using 
 3. Click the New button
 4. Use either the rich text editor or the markdown option to add copy and images
 5. Click on Save to save your new page to the publishing workflow
-6. You page will need to be approved by S9 in order to get published
+5. Go back to the dashboard and view the publishing workflow
+5. If you are happy with your draft, move it to the Review column
+6. Your page will need to be approved by S9 in order to get published
