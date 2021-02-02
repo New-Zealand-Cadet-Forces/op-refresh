@@ -78,11 +78,11 @@ a.nav-item-em {
 
 main {
     section {
-        padding: 0 0.8rem;
-        margin: 100px auto;
-        &.narrow {
-            max-width: 50em;
-        }
+    }
+    margin: 100px auto;
+    padding: 0 0.8rem;
+    &.narrow {
+        max-width: 50em;
     }
 }
 
