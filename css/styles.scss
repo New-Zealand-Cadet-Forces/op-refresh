@@ -88,14 +88,14 @@ li.dropdown {
 }
 
 .dropdown-content:after {
-    position: absolute;
-    top: -10px;
-    width: 0;
-    height: 0;
-    content: '';
-    border-left: 15px solid transparent;
-    border-right: 15px solid transparent;
-    border-bottom: 15px solid #f9f9f9;
+  position: absolute;
+  top: -10px;
+  width: 0;
+  height: 0;
+  content: "";
+  border-left: 15px solid transparent;
+  border-right: 15px solid transparent;
+  border-bottom: 15px solid #f9f9f9;
 }
 
 .dropdown-content a {
@@ -137,12 +137,10 @@ a.nav-item-em {
 }
 
 main {
-  section {
-    padding: 0 0.8rem;
-    margin: 100px auto;
-    &.narrow {
-      max-width: 50em;
-    }
+  margin: 100px auto;
+  padding: 0 0.8rem;
+  &.narrow {
+    max-width: 50em;
   }
 }
 
