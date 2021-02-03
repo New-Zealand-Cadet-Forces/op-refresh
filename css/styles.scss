@@ -39,6 +39,10 @@ nav {
     padding: 0 1.25rem;
     text-decoration: none;
   }
+  a:hover {
+    text-decoration: underline #f9f9f9;
+    text-underline-offset: 0.2em;
+  }
 }
 
 .main-nav {
