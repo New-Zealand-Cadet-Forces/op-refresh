@@ -27,6 +27,35 @@ h2 {
   }
 }
 
+a.arrow-link::before {
+  content: "\25B8";
+  margin-right: 0.5em;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: auto minmax(min-content, 800px) auto;
+}
+
+// Allow special blocks to have whatever width they want
+.full-width {
+  grid-column-start: 1;
+  grid-column-end: 4;
+}
+
+// Ensure markdown from CMS pages keeps text in the middle column
+.middle,
+main > p,
+main > h2,
+main > h3,
+main > h4,
+main > h5,
+main > h6 {
+  grid-column: 2/3;
+}
+
 nav {
   background: black;
   display: flex;
@@ -140,13 +169,46 @@ a.nav-item-em {
   width: 100%;
 }
 
-main {
-  margin: 100px auto;
-  padding: 0 0.8rem;
-  &.narrow {
-    max-width: 50em;
+@media screen and (max-width: 1135px) {
+  .main-nav {
+    display: block;
+    ul {
+      display: none;
+    }
   }
 }
+
+/* Fancy layout bits */
+
+.block {
+  margin: 0 auto;
+  margin-top: 4em;
+  margin-bottom: 4em;
+}
+
+.grey {
+  background-color: #f9f9f9;
+}
+
+.image-with-text {
+  display: inline;
+  max-width: 50%;
+}
+
+.image-with-text + div {
+  padding: 4em;
+  margin: -30% auto 10% 40%;
+  width: 40%;
+  background-color: white;
+  z-index: 1;
+  position: relative;
+}
+
+.text-with-image {
+  float: right;
+}
+
+/* Major page parts */
 
 footer {
   background-color: $black;
