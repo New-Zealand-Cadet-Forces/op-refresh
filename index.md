@@ -2,13 +2,23 @@
 layout: default
 ---
 
-The New Zealand Cadet Forces (NZCF or Cadet Forces) is a voluntary, uniformed organisation which provides military-style leadership, personal development opportunities and adventure based training to youth aged between 13 and 19 years old. Through its three branches- Sea Cadets, Army Cadets and Air Cadets- the Cadet Forces provides youth with a hands on nationally coordinated training program which provides challenges and opportunities that no other organisation can; while a number of local, regional and national courses provide further experience and qualifications in specific training areas.
- 
-The Cadet Forces is a non-profit organisation for the youth of New Zealand which has existed continually since 1864, and in its present form in a partnership with the New Zealand Defence Force and locally appointed community organisations since 1971, making it New Zealand’s oldest youth organisation. 
+## Building young leaders
 
+The New Zealand Cadet Forces (NZCF or Cadet Forces) is a voluntary, uniformed organisation which provides military-style leadership, personal development opportunities and adventure based training to youth aged between 13 and 19 years old. Through its three branches- Sea Cadets, Army Cadets and Air Cadets- the Cadet Forces provides youth with a hands on nationally coordinated training program which provides challenges and opportunities that no other organisation can; while a number of local, regional and national courses provide further experience and qualifications in specific training areas.
+
+<a class="arrow-link" href="">Discover our training</a>
+ 
 {% include commandant-block.html %}
 
-Our aim is to instil leadership and honourable values in our youth so as to develop and enable self-disciplined, confident and responsible young New Zealanders, who come out feeling stronger than ever, and are armed with skill sets that will last them a lifetime.
+The Cadet Forces is a non-profit organisation for the youth of New Zealand which has existed continually since 1864, and in its present form in a partnership with the New Zealand Defence Force and locally appointed community organisations since 1971, making it New Zealand’s oldest youth organisation. 
+
+<section class="full-width block">
+    <img class="image-with-text" src="img/cta/navy.jpg" alt="life skills">
+
+    <h2>Life skills</h2>
+
+    <p>Our aim is to instil leadership and honourable values in our youth so as to develop and enable self-disciplined, confident and responsible young New Zealanders, who come out feeling stronger than ever, and are armed with skill sets that will last them a lifetime.</p>
+</section>
 
 {% include cta-image-block.html %}
 
