@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<article>
+<article class="middle">
     <p class="lead">The Air Training Corps or ATC is one of the three corps in the New Zealand Cadet Forces (NZCF), the other two being the New Zealand Cadet Corps (NZCC) and Sea Cadet Corps (SCC). It is funded in partnership between the New Zealand Defence Force (NZDF) and local communities, and its members are civilians. Members have no obligation to head into the regular force, however some do choose to join New Zealand Defence Force.</p>
     <h2>History</h2>
     <p>The Air Training Corps was formed in September 1941, at a time when New Zealand was considered to be at risk from Japanese invasion and the British were not in a position to help. Its purpose was to train potential airmen in basic airmanship and provide an insight into Air Force work to prepare young men for the RNZAF when they became of age.</p>
@@ -23,7 +23,7 @@ layout: default
     <h3>Shooting</h3>
     <p>Units conduct regular range training with smallbore rifles. Some units have their own armouries and ranges at their parade hall. Cadets must pass a TOET (Test of Elementary Training) before being allowed on the range. Cadets who achieve high marks regularly (80 points (from 100) or higher) on the range may be awarded a marksmanship badge which is then worn on their brassard.</p>
 </article>
-<aside>
+<aside class="middle">
     <h5>Courses</h5>
     <p>There are several courses available to ATC Cadets</p>
     <h6>Tri-Corps courses</h6>

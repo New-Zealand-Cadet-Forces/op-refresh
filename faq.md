@@ -2,6 +2,7 @@
 layout: default
 ---
 <!-- Links to questions -->
+<section class="middle">
 <ul class="no-bullet">
     <li><a href="#q1">Can both girls and boys join?</a></li>
     <li><a href="#q2">What if I move town, can I join another Unit?</a></li>
@@ -64,3 +65,4 @@ layout: default
 <p>There is no requirement to meet a specific level of fitness to join Cadets. However, like many activities, if you are fit you will get greater enjoyment from your experiences.</p>
 <h3 id="q13">Do I have to stay if I find Cadets is not for me?</h3>
 <p>No, you volunteer to enter Cadet Forces and you can leave at any time.</p>
+</section>

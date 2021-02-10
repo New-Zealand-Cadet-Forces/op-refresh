@@ -1,32 +1,33 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <!-- Prevent search engine indexing -->
-  <meta name="robots" content="noindex">
-  <!-- DELETE the above for live site -->
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="/css/styles.css">
+  <head>
+    <!-- Prevent search engine indexing -->
+    <meta name="robots" content="noindex" />
+    <!-- DELETE the above for live site -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <script
+      src="https://identity.netlify.com/v1/netlify-identity-widget.js"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="stylesheet" href="/css/styles.css" />
     <title>New Zealand Cadet Forces</title>
-</head>
-<body>
+  </head>
+  <body>
     {% include header.html %}
-    <main class="narrow">
-        {{ content }}
-    </main>    
+      <main class="grid">{{ content }}</main>
     {% include footer.html %}
     <script>
-    if (window.netlifyIdentity) {
-      window.netlifyIdentity.on("init", user => {
-        if (!user) {
-          window.netlifyIdentity.on("login", () => {
-            document.location.href = "/admin/";
-          });
-        }
-      });
-    }
-  </script>
-</body>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", (user) => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
+  </body>
 </html>

@@ -27,6 +27,28 @@ h2 {
   }
 }
 
+.grid {
+  display: grid;
+  grid-template-columns: auto minmax(min-content, 80ch) auto;
+}
+
+// Allow special blocks to have whatever width they want
+.full-width {
+  grid-column-start: 1;
+  grid-column-end: 4;
+}
+
+// Ensure markdown from CMS pages keeps text in the middle column
+.middle,
+main > p,
+main > h2,
+main > h3,
+main > h4,
+main > h5,
+main > h6 {
+  grid-column: 2/3;
+}
+
 nav {
   background: black;
   display: flex;

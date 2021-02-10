@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<article>
+<article class="middle">
     <p class="lead">The Sea Cadet Corps (SCC) or Sea Cadets, is one of the three corps in the New Zealand Cadet Forces (NZCF), the other two being the Air Training Corps (ATC), and the New Zealand Cadet Corps (NZCC). Its members are civilians. Members have no obligation to join the New Zealand Defence Force (NZDF) however some do choose to join the NZDF. The NZDF is partnered with the civilian Sea Cadet Association of New Zealand (SCANZ).</p>
     <h2>History</h2>
     <p>The SCC traces its roots back to 1929 when the first open Sea Cadet unit was formed in Christchurch, by the Canterbury Navy League. Units formed in the four main centres and were controlled nationally by the Canterbury branch of the League.</p>
@@ -29,7 +29,7 @@ layout: default
         <li>Team Work</li>
     </ul>
 </article>
-<aside>
+<aside class="middle">
     <h5>Courses</h5>
     <p>There are several courses available to Sea Cadets</p>
     <h6>Tri-Corps courses</h6>

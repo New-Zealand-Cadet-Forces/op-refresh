@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<article>
+<article class="middle">
     <p class="lead">The New Zealand Cadet Corps (NZCC), is one of the three corps in the New Zealand Cadet Forces, the other two being the Air Training Corps (ATC), and Sea Cadet Corps (SCC). There is no reference to the Army within the official title of the NZCC, but an army theme is used for the NZCC. All of its members, from the cadets themselves to the officers and the support committees are civilian volunteers. Members have no obligation to head into the New Zealand Defence Force (NZDF) however some do choose to join the NZDF.</p>
     <h2>Organisation</h2>
     <h3>National</h3>
@@ -36,7 +36,7 @@ layout: default
         <li>Weather reading skills</li>
     </ul>
 </article>
-<aside>
+<aside class="middle">
     <h5>NZCC Competitions</h5>
     <ul>
         <li>Area Cadet Skills Competition</li>
