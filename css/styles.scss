@@ -167,3 +167,12 @@ footer {
 .social a {
   padding: 5px;
 }
+
+@media screen and (max-width: 1135px) {
+  .main-nav {
+    display: block;
+    ul {
+      display: none;
+    }
+  }
+}
