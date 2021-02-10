@@ -1,19 +1,14 @@
 .cta-image-block {
-    display: flex;
-    justify-content: space-between;
-    width: 80vw;
-  position: relative;
-  left: 50%;
-  right: 50%;
-  margin-left: -40vw;
-margin-top: 5em;
+  display: flex;
+  justify-content: space-between;
+  max-width: 80vw;
 }
 
 .cta {
-    flex: 0 0 25%;
-    padding: 0.5em;
+  flex: 0 0 25%;
+  padding: 0.5em;
 }
 
 .cta-image {
-    margin:0;
+  margin: 0;
 }

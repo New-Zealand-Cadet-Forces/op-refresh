@@ -27,11 +27,6 @@ h2 {
   }
 }
 
-.block {
-  margin-top: 4em;
-  margin-bottom: 4em;
-}
-
 a.arrow-link::before {
   content: "\25B8";
   margin-right: 0.5em;
@@ -41,7 +36,7 @@ a.arrow-link::before {
 
 .grid {
   display: grid;
-  grid-template-columns: auto minmax(min-content, 80ch) auto;
+  grid-template-columns: auto minmax(min-content, 800px) auto;
 }
 
 // Allow special blocks to have whatever width they want
@@ -185,10 +180,28 @@ a.nav-item-em {
 
 /* Fancy layout bits */
 
+.block {
+  margin: 0 auto;
+  margin-top: 4em;
+  margin-bottom: 4em;
+}
+
+.grey {
+  background-color: #f9f9f9;
+}
+
 .image-with-text {
   display: inline;
-  float: left;
   max-width: 50%;
+}
+
+.image-with-text + div {
+  padding: 4em;
+  margin: -30% auto 10% 40%;
+  width: 40%;
+  background-color: white;
+  z-index: 1;
+  position: relative;
 }
 
 .text-with-image {
@@ -196,14 +209,6 @@ a.nav-item-em {
 }
 
 /* Major page parts */
-
-main {
-  margin: 100px auto;
-  padding: 0 0.8rem;
-  &.narrow {
-    max-width: 50em;
-  }
-}
 
 footer {
   background-color: $black;
