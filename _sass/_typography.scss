@@ -59,6 +59,10 @@ p {
     color: $paragraph-color;
 }
 
+.lead {
+    font-size: larger;
+}
+
 a {
     color: $link-color;
     font-weight: 500;
