@@ -1,50 +1,32 @@
 ---
 layout: default
 ---
-<article>
-    <p class="lead">The Sea Cadet Corps (SCC) or Sea Cadets, is one of the three corps in the New Zealand Cadet Forces (NZCF), the other two being the Air Training Corps (ATC), and the New Zealand Cadet Corps (NZCC). Its members are civilians. Members have no obligation to join the New Zealand Defence Force (NZDF) however some do choose to join the NZDF. The NZDF is partnered with the civilian Sea Cadet Association of New Zealand (SCANZ).</p>
-    <h2>History</h2>
-    <p>The SCC traces its roots back to 1929 when the first open Sea Cadet unit was formed in Christchurch, by the Canterbury Navy League. Units formed in the four main centres and were controlled nationally by the Canterbury branch of the League.</p>
-    <a href="history.html">More NZCF history...</a>
-    <h2>Organisation</h2>
-    <h3>National</h3>
-    <p>The SCC, as a component of the New Zealand Cadet Forces, is managed at a national level by the Commandant NZ Cadet Forces (usually a Regular Force Lieutenant-Colonel or equivalent), who is part of Headquarters New Zealand Defence Force staff in Wellington. At community level, The SCC are represented by the <a href="composition.html">Sea Cadet Association of New Zealand</a>.</p>
-    <h3>Units</h3>
-    <p>Each unit is managed by the Cadet Unit Commander, and his/her officers. There are seventeen Sea Cadet Units (also known as Training Ships) across New Zealand. To find your nearest unit, use our <a href="units.html">unit locator</a>.</p>
-    <h2>Activities</h2>
-    <h3>Parade nights</h3>
-    <p>Every unit holds Parade Nights around 2–3 hours long weekly during school terms. Each parade night usually begins with a Colours Ceremony and ends with a Sunset Ceremony. The starting parade is used to inspect uniforms, and to inform the cadets on the parade night's activities. The final parade to inform the cadets on upcoming events in the unit. Between the parades, the cadets undergo classroom or practical instruction, including on boat work and rigging, shooting and other activities.</p>
-    <h3>Boat work and rigging</h3>
-    <p>Sea Cadets undergo training to develop and maintain safe seamanship skills in power, sail, oar, and paddle craft, and learn the correct way to utilise ropes and pulleys.</p>
-    <h3>Other activities</h3>
-    <ul>
-        <li>Drill</li>
-        <li>History of RNZN</li>
-        <li>Dress and bearing</li>
-        <li>First Aid</li>
-        <li>Navigation</li>
-        <li>Radio procedures</li>
-        <li>Initiative</li>
-        <li>Leadership</li>
-        <li>Team Work</li>
-    </ul>
-</article>
-<aside>
-    <h5>Courses</h5>
-    <p>There are several courses available to Sea Cadets</p>
-    <h6>Tri-Corps courses</h6>
-    <ul class="no-bullet">
-        <li>Junior NCO Course</li>
-        <li>Senior NCO Course</li>
-        <li>Warrant Officers Course</li>
-        <li>Under Officers Course</li>
-        <li>Cadet Bushcraft Course</li>
-    </ul>
-    <h6>SCC Courses and Competitions</h6>
-    <ul class="no-bullet">
-        <li>Cadet Sailing Charge Course</li>
-        <li>Area Sea Cadet Skills</li>
-        <li>National Sea Cadet Skills</li>
-        <li>Sea Time</li>
-    </ul>
-</aside>
+
+## Navy Cadets
+
+<p class="lead">The Sea Cadet Corps (SCC), commonly known as Navy Cadets, is the arm of the New Zealand Cadet Forces (NZCF) aligned with the Royal New Zealand Navy (RNZN), which is why we have similar uniforms, rank structure and training. A lot of the training, customs and traditions undertaken by the Navy Cadets aligns with that of the RNZN. 
+
+The SCC is one of the three corps in the NZCF, the other two being the New Zealand Cadet Corps (NZCC) and Air Training Corps (ATC), commonly known as the Army Cadets and Air Cadets respectively. We are supported in partnership between the New Zealand Defence Force (NZDF) and local communities, and our members remain civilians with no obligation to join the regular forces, however some do choose to join the New Zealand Defence Force.</p>
+
+If you decide to become a Navy Cadet, you’ll receive all of the common training that every member of the NZCF receives, but you’ll also receive the Corps Training which is specific to the Navy Cadets! You don't necessarily need to have a strong interest in sailing as Cadet Units offer a wide variety of training and experiences that are unique to the NZCF, and you will learn valuable life and work skills that will open up new possibilities, opportunities and career options. You will be part of a team, develop leadership and survival skills, make new friends, experience challenges and learn to take responsibility.
+
+Navy Cadet Units hold recognised activities throughout the year, including outdoor and adventure training such as:
+
+* Parade Nights - Every unit holds Parade Nights weekly, approximately 3–4 hours per night during the school terms. Each parade night usually begins and ends with a parade. The starting parade follows a traditional RNZN Colours Ceremony to raise the SCC Ensign, to inspect uniforms, and to inform the cadets on the parade night's activities. The final parade follows a traditional RNZN Sunset Ceremony to lower the SCC Ensign, and to inform the cadets on upcoming events in the unit. Between the parades, the cadets undergo classroom or practical instruction.
+
+* Sailing - Teaching our cadets to sail in the Crown and Feva class of boats gives them the opportunity to not only learn the skill of sailing, but also gives them the basis of teamwork and leadership, as they master each position on the boat, leading to a qualification as a Coxswain (Boat Skipper).
+
+* Boatwork and Rigging - Navy Cadets undergo training to develop and maintain safe seamanship skills in power, sail, oar, and paddle craft, and learn the correct way to utilise ropes and pulleys.
+
+* Firearms Safety and Marksmanship Training - Units conduct regular firearms safety training with .22 calibre smallbore target rifles. This training also further develops self-discipline, confidence and teamwork that becomes beneficial during National and International Cadet Shooting Competitions.Cadets must pass a strict TOET (Test of Elementary Training) before being allowed on the range. Cadets can be awarded skills badges in Rifle Proficiency, First Class Shooting and Marksmanship as their shooting skills develop.
+
+* Working with the Navy - Our Navy Cadets are closely aligned to the RNZN and they have the opportunity to experience life in the RNZN, through sea time on operational Navy ships as they transit between ports. 
+
+* Duke of Edinburgh - All training provided by the NZCF can be cross-credited to those who are working towards their Duke of Edinburgh’s Hillary Award, with badges awarded to those who complete the Bronze, Silver or Gold Award. 
+
+
+On top of all this, cadets are also offered inspiring and challenging military-like experiences, access to serving men and women of the NZDF, and are invited to see behind the scenes of  Air Bases, Army Camps and Navy Ships to see another side of the NZDF. 
+
+Depending on their Corps, cadets have a number of courses available to them throughout their NZCF careers. These include both leadership (promotion) courses and specific skill training courses. Units also participate in regional and national skills competitions or regattas.
+
+Click here to learn more about the common [Training Offered to every Cadet](), or what [Regional & National Courses]() are available as you progress through the NZCF. 
