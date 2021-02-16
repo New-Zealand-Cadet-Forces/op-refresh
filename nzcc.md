@@ -2,54 +2,29 @@
 layout: default
 ---
 
-<article>
-    <p class="lead">The New Zealand Cadet Corps (NZCC), is one of the three corps in the New Zealand Cadet Forces, the other two being the Air Training Corps (ATC), and Sea Cadet Corps (SCC). There is no reference to the Army within the official title of the NZCC, but an army theme is used for the NZCC. All of its members, from the cadets themselves to the officers and the support committees are civilian volunteers. Members have no obligation to head into the New Zealand Defence Force (NZDF) however some do choose to join the NZDF.</p>
-    <h2>Organisation</h2>
-    <h3>National</h3>
-    <p>The NZCC, as a component of the New Zealand Cadet Forces, is managed at a national level by the Commandant NZ Cadet Forces (usually a Regular Force Lieutenant-Colonel or equivalent), who is part of Headquarters New Zealand Defence Force staff in Wellington. At community level, The NZCC are represented by the <a href="composition.html">Cadet Corps Association of New Zealand</a>.</p>
-    <h3>Units</h3>
-    <p>Each unit is managed by the Cadet Unit Commander, and his/her officers. There are currently 38 New Zealand cadet Corps Units in New Zealand. To find your nearest unit, use our <a href="units.html">unit locator</a>.</p>
-    <h2>Uniform and Insignia</h2>
-    <p>The uniform worn by NZCC members is the same as that of the New Zealand Army, except that for all ranks, the lettering on the bottom of the rank insignia shoulder boards reads CADET FORCES rather than NEW ZEALAND to differentiate NZCC personnel from New Zealand Army personnel. Furthermore, NZCC rank insignia are red, a colour no longer used by the New Zealand Army for rank insignia. Officer Service Dress Uniforms have a shoulder flash reading NEW ZEALAND CADET FORCES, rather than NEW ZEALAND for the same reason. The cadets wear a NZCF cap badge (same as NZCC logo) on their beret, Cadets wear their achievements on a shoulder brassard. Officers who were formerly cadets do not wear their cadet awards on the officer uniform.</p>
-    <h2>Activities</h2>
-    <h3>Parades</h3>
-    <p>Every unit holds Parade Nights around 2–3 hours long weekly during School Terms. Each parade night usually begins and ends with a parade. The starting parade is used to inspect uniforms, and to inform the cadets on the parade night's activities. The final parade to inform the cadets on upcoming events in the unit. Between the parades, the cadets undergo classroom, or practical instruction.</p>
-    <h3>Bushcraft</h3>
-    <p>Most units conduct classroom training in bushcraft and survival skills, and hold regular Basic and Advanced bushcraft camps in the local area during weekends.</p>
-    <h3>Shooting</h3>
-    <p>Units conduct regular range training with smallbore rifles. Some units have their own armouries and ranges at their parade hall. Cadets must pass a TOET (Test of Elementary Training) before being allowed on the range. The rifle used at present is the Marlin XT.</p>
-    <h3>Other activities</h3>
-    <ul>
-        <li>Adventure training</li>
-        <li>Assault courses</li>
-        <li>Drill</li>
-        <li>First-aid/search & rescue/casualty evacuation (CASEVAC)</li>
-        <li>General service knowledge/Cadet force knowledge</li>
-        <li>Initiative</li>
-        <li>Leadership</li>
-        <li>Fieldcraft</li>
-        <li>Navigation</li>
-        <li>Radio procedures</li>
-        <li>Survival</li>
-        <li>Team Work</li>
-        <li>Watermanship</li>
-        <li>Weather reading skills</li>
-    </ul>
-</article>
-<aside>
-    <h5>NZCC Competitions</h5>
-    <ul>
-        <li>Area Cadet Skills Competition</li>
-        <li>Fennell Cup Shooting Trophy (Commonwealth Award)</li>
-        <li>Gunson Cup Shooting Trophy</li>
-        <li>National Cadet Skills Competition</li>
-    </ul>
-    <h5>Courses</h5>
-    <ul>
-        <li>Junior NCO course</li>
-        <li>Senior NCO course</li>
-        <li>Under officers' course</li>
-        <li>Cadet bushcraft course</li>
-        <li>Cadet shooting coaches course</li>
-    </ul>
-</aside>
+## Army Cadets
+
+<p class="lead">The New Zealand Cadet Corps (NZCC), commonly known as Army Cadets, is the arm of the New Zealand Cadet Forces (NZCF) aligned with the New Zealand Army (NZ Army), which is why we have similar uniforms, rank structure and training. A lot of the training, customs and traditions undertaken by the Army Cadets aligns with that of the NZ Army.</p>
+
+The NZCC is one of the three corps in the NZCF, the other two being the Sea Cadet Corps (SCC) and Air Training Corps (ATC), commonly known as the Navy Cadets and Air Cadets respectively. We are supported in partnership between the New Zealand Defence Force (NZDF) and local communities, and our members remain civilians with no obligation to join the regular forces, however some do choose to join the New Zealand Defence Force.
+
+If you decide to become an Army Cadet, you’ll receive all of the common training that every member of the NZCF receives, but you’ll also receive the Corps Training which is specific to the Army Cadets! You don't necessarily need to have a strong interest in bushcraft as Cadet Units offer a wide variety of training and experiences that are unique to the NZCF, and you will learn valuable life and work skills that will open up new possibilities, opportunities and career options. You will be part of a team, develop leadership and survival skills, make new friends, experience challenges and learn to take responsibility.
+
+Army Cadet Units hold recognised activities throughout the year, including outdoor and adventure training such as:
+
+* Parade Nights - Every unit holds Parade Nights weekly, approximately 3–4 hours per night during the school terms. Each parade night usually begins and ends with a parade. The starting parade follows an NZ Army format and is used to raise the New Zealand flag, to inspect uniforms, and to inform the cadets on the parade night's activities. The final parade is used to lower the New Zealand flag, and to inform the cadets on upcoming events in the unit. Between the parades, the cadets undergo classroom or practical instruction.
+
+* Bushcraft - Army Cadet Units give their cadets the opportunity to become skilled and comfortable in the bush environment. Theory lessons and scenarios are supported with camps run throughout the year, each providing new and exciting activities and skills such as navigation, tramping, and camping skills.
+
+* Firearms Safety and Marksmanship Training - Units conduct regular firearms safety training with .22 calibre smallbore target rifles. This training also further develops self-discipline, confidence and teamwork that becomes beneficial during National and International Cadet Shooting Competitions.Cadets must pass a strict TOET (Test of Elementary Training) before being allowed on the range. Cadets can be awarded skills badges in Rifle Proficiency, First Class Shooting and Marksmanship as their shooting skills develop.
+
+* Fieldcraft - Units conduct training in practical military skills such as observation skills, patrolling, camouflage and concealment, and hand signals. This is taught through theory and practical lessons, and weekend activities.
+
+
+* Duke of Edinburgh - All training provided by the NZCF can be cross-credited to those who are working towards their Duke of Edinburgh’s Hillary Award, with badges awarded to those who complete the Bronze, Silver or Gold Award.
+
+On top of all this, cadets are also offered inspiring and challenging military-like experiences, access to serving men and women of the NZDF, and are invited to see behind the scenes of  Air Bases, Army Camps and Navy Ships to see another side of the NZDF. 
+
+Depending on their Corps, cadets have a number of courses available to them throughout their NZCF careers. These include both leadership (promotion) courses and specific skill training courses. Units also participate in regional and national skills competitions or regattas.
+
+Click here to learn more about the common [Training Offered to every Cadet](), or what [Regional & National Courses]() are available as you progress through the NZCF. 
