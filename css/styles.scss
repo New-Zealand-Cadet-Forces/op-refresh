@@ -167,3 +167,18 @@ footer {
 .social a {
   padding: 5px;
 }
+
+/* IMAGES */
+
+.image-text {
+  display: flex;
+  height: auto;
+  gap: 1em;
+  margin: 10em -5em;
+  p:first-child {
+    flex: 1;
+  }
+  div {
+    flex: 1;
+  }
+}
