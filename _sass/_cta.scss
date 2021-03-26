@@ -11,8 +11,27 @@
 .cta {
   flex: 0 0 25%;
   padding: 0.5em;
+  h3 {
+    font-size: 2em;
+    margin-top: 0;
+    line-height: 1.3;
+    font-weight: 500;
+  }
+  figcaption {
+    margin-top: 15px;
+    &::before {
+      content: "\25B8";
+      margin-right: 0.5em;
+      text-decoration: none;
+      display: inline-block;
+    }
+  }
 }
 
 .cta-image {
   margin: 0;
+}
+
+.cta-text {
+  padding: 0 1em;
 }
