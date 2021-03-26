@@ -10,6 +10,9 @@
 body {
   font: 100% $font-stack;
   color: $primary-text-color;
+  p {
+    line-height: 1.7;
+  }
 }
 
 h2 {
@@ -173,12 +176,13 @@ footer {
 .image-text {
   display: flex;
   height: auto;
-  gap: 1em;
+  gap: 2em;
   margin: 10em -5em;
-  p:first-child {
-    flex: 1;
-  }
-  div {
-    flex: 1;
+}
+
+.image-row {
+  margin: 0 -10em;
+  img {
+    width: 33%;
   }
 }

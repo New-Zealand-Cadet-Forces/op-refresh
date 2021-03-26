@@ -15,18 +15,20 @@ The New Zealand Cadet Forces (NZCF or Cadet Forces) is a voluntary, uniformed or
 The Cadet Forces is a non-profit organisation for the youth of New Zealand which has existed continually since 1864, and in its present form in a partnership with the New Zealand Defence Force and locally appointed community organisations since 1971, making it New Zealand’s oldest youth organisation. 
 <section class="image-text">
 
-![test image](https://via.placeholder.com/600x400)
+![test image](/img/home/parade.jpg)
 
 <div>
+
 ## Life Skills
 
 Our aim is to instil leadership and honourable values in our youth so as to develop and enable self-disciplined, confident and responsible young New Zealanders, who come out feeling stronger than ever, and are armed with skill sets that will last them a lifetime.
 </div>
 </section>
 
-![test image](https://via.placeholder.com/150)
-![test image](https://via.placeholder.com/150)
-![test image](https://via.placeholder.com/150)
+![test image](/img/home/confidence.jpg)
+![test image](/img/home/sailing.jpg)
+![test image](/img/home/glider.jpg)
+{: .image-row}
 
 <section class="image-text">
 <div>
@@ -35,11 +37,11 @@ Our aim is to instil leadership and honourable values in our youth so as to deve
 Cadets have the opportunity to take part in unique adventurous, fulfilling and educational activities in a military-like environment. Through these activities, cadets get the chance to develop a sense of purpose, responsibility, self confidence, self respect, self discipline, self reliance, leadership ability, and commitment to voluntary service. 
 </div>
 
-![test image](https://via.placeholder.com/350x550)
+![test image](/img/home/snco-course.jpg)
 </section>
 
 <section class="image-text">
-![test image](https://via.placeholder.com/350x550)
+![test image](/img/home/coxswains.jpg)
 
 <div>
 
