@@ -8,7 +8,13 @@ layout: default
 
 The SCC is one of the three corps in the NZCF, the other two being the New Zealand Cadet Corps (NZCC) and Air Training Corps (ATC), commonly known as the Army Cadets and Air Cadets respectively. We are supported in partnership between the New Zealand Defence Force (NZDF) and local communities, and our members remain civilians with no obligation to join the regular forces, however some do choose to join the New Zealand Defence Force.</p>
 
-If you decide to become a Navy Cadet, you’ll receive all of the common training that every member of the NZCF receives, but you’ll also receive the Corps Training which is specific to the Navy Cadets! You don't necessarily need to have a strong interest in sailing as Cadet Units offer a wide variety of training and experiences that are unique to the NZCF, and you will learn valuable life and work skills that will open up new possibilities, opportunities and career options. You will be part of a team, develop leadership and survival skills, make new friends, experience challenges and learn to take responsibility.
+<section class="image-text">
+
+<img src="" alt="Navy cadets">
+
+<p>If you decide to become a Navy Cadet, you’ll receive all of the common training that every member of the NZCF receives, but you’ll also receive the Corps Training which is specific to the Navy Cadets! You don't necessarily need to have a strong interest in sailing as Cadet Units offer a wide variety of training and experiences that are unique to the NZCF, and you will learn valuable life and work skills that will open up new possibilities, opportunities and career options. You will be part of a team, develop leadership and survival skills, make new friends, experience challenges and learn to take responsibility.</p>
+
+</section>
 
 Navy Cadet Units hold recognised activities throughout the year, including outdoor and adventure training such as:
 
