@@ -15,9 +15,9 @@ The SCC is one of the three corps in the NZCF, the other two being the New Zeala
 </section>
 
 
-<p>If you decide to become a Navy Cadet, you’ll receive all of the common training that every member of the NZCF receives, but you’ll also receive the Corps Training which is specific to the Navy Cadets! You don't necessarily need to have a strong interest in sailing as Cadet Units offer a wide variety of training and experiences that are unique to the NZCF, and you will learn valuable life and work skills that will open up new possibilities, opportunities and career options. You will be part of a team, develop leadership and survival skills, make new friends, experience challenges and learn to take responsibility.</p>
+<p class="page-item">If you decide to become a Navy Cadet, you’ll receive all of the common training that every member of the NZCF receives, but you’ll also receive the Corps Training which is specific to the Navy Cadets! You don't necessarily need to have a strong interest in sailing as Cadet Units offer a wide variety of training and experiences that are unique to the NZCF, and you will learn valuable life and work skills that will open up new possibilities, opportunities and career options. You will be part of a team, develop leadership and survival skills, make new friends, experience challenges and learn to take responsibility.</p>
 
-<img src="/img/scc/0I2A9337.jpeg" alt="Navy cadets">
+<img src="/img/scc/0I2A9337.jpeg" alt="Navy cadets" class="page-item">
 
 Navy Cadet Units hold recognised activities throughout the year, including outdoor and adventure training such as:
 
@@ -42,7 +42,7 @@ Navy Cadet Units hold recognised activities throughout the year, including outdo
 </section>
 
 
-<p>Depending on their Corps, cadets have a number of courses available to them throughout their NZCF careers. These include both leadership (promotion) courses and specific skill training courses. Units also participate in regional and national skills competitions or regattas.</p>
+<p class="page-item">Depending on their Corps, cadets have a number of courses available to them throughout their NZCF careers. These include both leadership (promotion) courses and specific skill training courses. Units also participate in regional and national skills competitions or regattas.</p>
 
 <img src="img/scc/1sailing0I2A5974.JPG" alt="Sea Cadet Regatta">
 
