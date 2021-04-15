@@ -15,11 +15,6 @@ body {
   }
 }
 
-h2 {
-  font-size: 1.9rem;
-  font-weight: 500;
-}
-
 #branding {
   height: 90px;
   min-width: 160px;
@@ -176,8 +171,14 @@ footer {
 .image-text {
   display: flex;
   height: auto;
-  gap: 2em;
   margin: 10em -5em;
+  gap: 2em;
+  img {
+    align-self: center;
+  }
+  &.top {
+    margin-top: 3em;
+  }
 }
 
 .image-row {
