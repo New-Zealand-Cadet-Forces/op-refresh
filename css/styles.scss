@@ -192,19 +192,29 @@ footer {
   }
 }
 
-@media screen and (max-width: 1000px) {
-  .image-text {
-    margin: 10em 1em;
-    flex-wrap: wrap;
-    div{
-      flex: 1 1 100%;
-    }
-  }
-}
-
 .image-row {
   margin: 0 -10em;
   img {
     width: 33%;
   }
 }
+
+@media screen and (max-width: 1000px) {
+  .image-text {
+    margin: 3em 0;
+    flex-wrap: wrap;
+    div{
+      flex: 1 1 100%;
+    }
+  }
+
+  .image-row {
+    margin: 0;
+    img {
+      display: block;
+      width: 100%;
+      margin: 1em auto;
+    }
+  }
+}
+
