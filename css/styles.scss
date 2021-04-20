@@ -178,11 +178,19 @@ footer {
   height: auto;
   margin: 10em -5em;
   gap: 2em;
+  flex: 0 1 600px;
   img {
     align-self: center;
   }
   &.top {
     margin-top: 3em;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .image-text {
+    margin: 10em 1em;
+    flex-wrap: wrap;
   }
 }
 
