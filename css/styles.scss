@@ -178,9 +178,14 @@ footer {
   height: auto;
   margin: 10em -5em;
   gap: 2em;
-  flex: 0 1 600px;
   img {
     align-self: center;
+  }
+  div {
+    flex: 0 1 50%;
+  }
+  h2 {
+    margin-top: 0;
   }
   &.top {
     margin-top: 3em;
@@ -191,6 +196,9 @@ footer {
   .image-text {
     margin: 10em 1em;
     flex-wrap: wrap;
+    div{
+      flex: 1 1 100%;
+    }
   }
 }
 
