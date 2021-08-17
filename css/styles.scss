@@ -1,10 +1,13 @@
 ---
 ---
 
+$section-gap: 6rem;
+
 @import "brand";
 @import "resets";
 @import "typography";
 @import "cta";
+
 
 //Main styles
 body {
@@ -176,14 +179,12 @@ footer {
 .image-text {
   display: flex;
   height: auto;
-  margin: 10em -5em;
+  margin: $section-gap -5em;
   gap: 2em;
   img {
     align-self: center;
   }
-  div {
-    flex: 0 1 50%;
-  }
+  
   h2 {
     margin-top: 0;
   }
