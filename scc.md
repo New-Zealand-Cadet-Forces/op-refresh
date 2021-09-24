@@ -48,4 +48,4 @@ Navy Cadet Units hold recognised activities throughout the year, including outdo
 
 
 
-Click here to learn more about the common [Training Offered to every Cadet](), or what [Regional & National Courses]() are available as you progress through the NZCF. 
+Click here to learn more about the common [Training Offered to every Cadet](training.html), or what [Regional & National Courses](cadetcourses.html) are available as you progress through the NZCF. 
