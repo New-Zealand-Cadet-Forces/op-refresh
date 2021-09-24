@@ -32,4 +32,4 @@ On top of all this, cadets are also offered inspiring and challenging military-l
 
 Depending on their Corps, cadets have a number of courses available to them throughout their NZCF careers. These include both leadership (promotion) courses and specific skill training courses. Units also participate in regional and national skills competitions or regattas.
 
-Click here to learn more about the common [Training Offered to every Cadet](), or what [Regional & National Courses]() are available as you progress through the NZCF.
+Click here to learn more about the common [Training Offered to every Cadet](training.html), or what [Regional & National Courses](cadetcourses.html) are available as you progress through the NZCF.
