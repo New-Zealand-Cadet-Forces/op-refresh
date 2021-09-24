@@ -18,4 +18,4 @@ By becoming an Officer you will become part of a nationwide team, and get a chan
 
 Officers have a number of courses available to them throughout their NZCF careers. These include both leadership (promotion) courses and specific skill training courses. As well as the opportunity to attend the Cadet Courses in an instructional role, and International Exchanges as an escort. 
 
-Click here to learn more about the [Training Offered to Officers](), or how to [Join as an Officer]().
+Click here to learn more about the [Training Offered to Officers](officercourses.html), or how to [Join as an Officer](officer-join.html).

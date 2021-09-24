@@ -33,7 +33,7 @@ Each Corps also has some training that is specific to them, and this makes up th
 * Air Cadet specific training includes power flying, gliding, air navigation and other aviation related content such as the parts of an aircraft and theory of flight. 
 
 
-Throughout their time in the NZCF, cadets will get the opportunity to be involved in Cadet [Local and Regional Courses]() and Competitions as well as activities with other Cadet Units in their Local Area, have the opportunity to apply for [International Exchanges]() and the [Duke of Edinburgh Hillary Award]().
+Throughout their time in the NZCF, cadets will get the opportunity to be involved in Cadet [Local and Regional Courses](cadetcourses.html) and Competitions as well as activities with other Cadet Units in their Local Area, have the opportunity to apply for [International Exchanges](overseas.html) and the [Duke of Edinburgh Hillary Award](doe.html).
 
 To see what corps of the NZCF is right for you, have a look at each in detail through the image below 
 
