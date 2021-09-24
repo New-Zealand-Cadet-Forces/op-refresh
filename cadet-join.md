@@ -40,12 +40,12 @@ We have high standards and expect Cadets to be accountable for themselves and th
 ### Show me more!
 All of our units welcome personal visits by potential cadets (ideally accompanied by a parent or guardian), during one of their Parade Nights. Some units recruit throughout the year, others have specific entry dates. 
 
-It is best to contact your [local unit]() in advance to find out about their entry dates and arrange a time to be shown around. You have nothing to lose by coming along to see if you like what we have to offer, and you don't have to join on the spot- but at least see what you could be missing out on.
+It is best to contact your [local unit](https://www.cadetforces.org.nz/units.html) in advance to find out about their entry dates and arrange a time to be shown around. You have nothing to lose by coming along to see if you like what we have to offer, and you don't have to join on the spot- but at least see what you could be missing out on.
 
 Joining as a Cadet is very easy, and we recommend the following steps to visit your local unit and see what we do first hand!
 
 * **Check you are the right age** - You must be 13 - 15 years old or 12 years old and in Year 9 at High School.
-* **Find your Local Unit** - Find your closest New Zealand Cadet Forces unit via our [map]()
+* **Find your Local Unit** - Find your closest New Zealand Cadet Forces unit via our [map](https://www.cadetforces.org.nz/units.html)
 * **Make Contact** - Choose the unit you would like to have a closer look at and make contact to arrange a time to visit. 
 * **Come say hello** - With your parents/guardians, visit the unit on one of their Parade Nights and meet the Unit staff.
 * **Learn a bit more** - The Unit staff will show you around the unit, talk to you about Cadets and invite you to attend a couple of their Parade Nights to get a feel for what we do. 
