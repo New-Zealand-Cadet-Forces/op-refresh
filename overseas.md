@@ -15,7 +15,7 @@ Many cadets comment that travelling as part of an exchange is one of the highlig
 For more detailed information it is recommended for the cadet to speak with their unit officers. 
 
 <!-- TODO -->
-![Navy Cadet Logo and International Sea Cadet Exchange Logo]() 
+![Navy Cadet Logo and International Sea Cadet Exchange Logo](/img/overseas/ISCEP-Logo.png) 
 
 ### International Sea Cadet Exchange Program (ISCEP)
 
@@ -41,7 +41,7 @@ The inbound exchange is held in August each year with applications called for at
 The exchange takes place in the North Island starting in Auckland and visits places of National significance/tourist and cultural locations.  The exchange ends in Wellington where all member countries depart to their home destination. 
 
 <!-- TODO -->
-![Army Cadet Logo]()
+![Army Cadet Logo](/img/logos/ArmyCadetswhitebgsm.jpeg)
 
 ### International Army Cadet Exchange
 
@@ -71,7 +71,7 @@ The outcome from this “pilot” exchange with the UK Army Cadet Forces (ACF) i
 Since 2017, the Australian Army Cadets have sent the victorious Regional Australian Team from the CACTC challenge to New Zealand in October each year to compete in the New Zealand Regional Army Skills Competition. This has reinforced the close bond and competition now established between the Cadet Forces of both countries. 
 
 <!-- TODO -->
-![Air Cadet Logo and International Air Cadet Exchange Logo]()
+![Air Cadet Logo and International Air Cadet Exchange Logo](/img/overseas/iace-logo.png)
 
 ### International Air Cadet Exchange (IACE)
 
