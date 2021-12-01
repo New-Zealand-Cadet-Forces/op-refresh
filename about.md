@@ -11,6 +11,14 @@ layout: default
     Through its three branches, the Cadet Forces provides personnel with a four-year training curriculum, while a number of unit, area and national courses provide further experience and qualifications in specific training areas. It is jointly funded by the Chief of Defence Force and four national recognised Civilian Support Organisations. The NZCF is a non-profit organisation for the youth of New Zealand and their youth leaders, and adheres to a strict <a href="conduct.html">Code of Conduct.</a></p>
 </section>
 <section>
+    <h2>Legal Status</h2>
+    <p>New Zealand Cadet Forces (NZCF) is run in partnership with the NZDF. The NZDF provides Regular Force personnel and NZDF civilian employees in training, development, logistics and administration roles.</p>
+    <p>
+    The NZCF is not part of the NZDF, but is maintained under the direction of the Chief of Defence Force (CDF) on behalf of the Minister of Defence and is covered by the Defence Act 1990. The Minister of Defence holds ultimate control, with the CDF in a compulsory directorial role. Aspects of the CDF delegation are then sub-delegated to the Commandant NZCF who is responsible for the strategic direction and operational functioning of the organisation.</p>
+    <p>
+    Any unit of the Cadet Forces must be attached to the Air Training Corps, New Zealand Cadet Corps or Sea Cadet Corps.</p>
+</section>
+<section>
     <h2>History</h2>
     <p>The first unit raised was at Otago Boys High School in 1864, making it one of the oldest youth service organisations in New Zealand. By 1870 there were several secondary school units in existence.</p>
     <p>The NZCF celebrated its 150th anniversary in January 2014, with an exercise held at Waiouru Military Camp.</p>
@@ -28,8 +36,4 @@ layout: default
         <li>Leadership activities</li>
     </ul>
     <p>All our courses and activities are designed to teach our core values of loyalty, discipline, respect and integrity in a safe and fun environment.</p>
-</section>
-<section>
-    <h2>Legal Status</h2>
-    <p>The New Zealand Cadet Forces is currently covered by the Defence Act 1990. The Minister of Defence holds ultimate control, with the Chief of Defence Force (CDF) in a compulsory directorial role. Any unit of the Cadet Forces must be attached to the Air Training Corps, New Zealand Cadet Corps or Sea Cadet Corps.</p>
 </section>
