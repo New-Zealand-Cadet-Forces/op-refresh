@@ -34,9 +34,7 @@ To promote an awareness of the Armed Forces, and the role they play in the commu
 
 ## NZCF CODE OF CONDUCT
 
-### Our Code of Conduct
-
-<!-- (NZCF Code of conduct powerpoint document here) -->
+**Our <a href="https://www.cadetnet.org.nz/wp-content/uploads/2021/11/NZCF_Code_of_Conduct.pdf">Code of Conduct.</a>**
 
 #### WHO DOES IT APPLY TO AND WHEN?
 
