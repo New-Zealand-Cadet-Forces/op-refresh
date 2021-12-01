@@ -20,7 +20,7 @@ They provide:
 * Representation to the community meeting the Government/Community partnership requirement to develop and implement strategies for growth by raising the national profile of the NZCF.
 * Quality Control for the cadets by ensuring the content of the entire training programme is relevant and suits the needs of today’s youth.
 
-See our [Headquarters Organisational chart]() 
+See our [Headquarters Organisational chart](/img/Org_Chart_2020-09-18_No_Names.gif) 
 
 ### Branch (Unit) Support Committees
 
