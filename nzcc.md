@@ -40,6 +40,6 @@ Army Cadet Units hold recognised activities throughout the year, including outdo
 
 <p class="page-item">Depending on their Corps, cadets have a number of courses available to them throughout their NZCF careers. These include both leadership (promotion) courses and specific skill training courses. Units also participate in regional and national skills competitions or regattas.</p>
 
-<img src="/img/corps-nzcc/IMG_2932.JPG" alt="Sea Cadet Regatta">
+<img src="/img/corps-nzcc/IMG_2932.JPG" alt="Army cadet shooting competition">
 
 Click here to learn more about the common [Training Offered to every Cadet](training.html), or what [Regional & National Courses](cadetcourses.html) are available as you progress through the NZCF. 

@@ -4,11 +4,18 @@ layout: default
 
 ## Air Cadets
 
-<p class="lead">The Air Training Corps (ATC), commonly known as Air Cadets, is the arm of the New Zealand Cadet Forces (NZCF) aligned with the Royal New Zealand Air Force (RNZAF), which is why we have similar uniforms, rank structure and training. A lot of the training, customs and traditions undertaken by the Air Cadets aligns with that of the RNZAF.</p>
+<section class="image-text top">
 
-The ATC is one of the three corps in the NZCF, the other two being the New Zealand Cadet Corps (NZCC) and Sea Cadet Corps (SCC), commonly known as the Army Cadets and Navy Cadets respectively. We are supported in partnership between the New Zealand Defence Force (NZDF) and local communities, and our members remain civilians with no obligation to join the regular forces, however some do choose to join the New Zealand Defence Force.
+<img src="/img/corps-atc/ATC_Crest.png" alt="Air cadets crest">
+<p class="lead">The Air Training Corps (ATC), commonly known as Air Cadets, is the arm of the New Zealand Cadet Forces (NZCF) aligned with the Royal New Zealand Air Force (RNZAF), which is why we have similar uniforms, rank structure and training. A lot of the training, customs and traditions undertaken by the Air Cadets aligns with that of the RNZAF.
+<br>
+The ATC is one of the three corps in the NZCF, the other two being the New Zealand Cadet Corps (NZCC) and Sea Cadet Corps (SCC), commonly known as the Army Cadets and Navy Cadets respectively. We are supported in partnership between the New Zealand Defence Force (NZDF) and local communities, and our members remain civilians with no obligation to join the regular forces, however some do choose to join the New Zealand Defence Force.</p>
 
-If you decide to become an Air Cadet, you’ll receive all of the common training that every member of the NZCF receives, but you’ll also receive the Corps Training which is specific to the Air Cadets! You don't necessarily need to have a strong interest in aviation as Cadet Units offer a wide variety of training and experiences that are unique to the NZCF, and you will learn valuable life and work skills that will open up new possibilities, opportunities and career options. You will be part of a team, develop leadership and survival skills, make new friends, experience challenges and learn to take responsibility.
+</section>
+
+<p class="page-item">If you decide to become an Air Cadet, you’ll receive all of the common training that every member of the NZCF receives, but you’ll also receive the Corps Training which is specific to the Air Cadets! You don't necessarily need to have a strong interest in aviation as Cadet Units offer a wide variety of training and experiences that are unique to the NZCF, and you will learn valuable life and work skills that will open up new possibilities, opportunities and career options. You will be part of a team, develop leadership and survival skills, make new friends, experience challenges and learn to take responsibility.</p>
+
+<img src="/img/corps-atc/20141109_WN_S1015650_0009.jpg" alt="Air cadets" class="page-item">
 
 Air Cadet Units hold activities throughout the year, including outdoor and adventure training such as:
 
@@ -28,8 +35,16 @@ Air Cadet Units hold activities throughout the year, including outdoor and adven
 
 * Duke of Edinburgh - All training provided by the NZCF can be cross-credited to those who are working towards their Duke of Edinburgh’s Hillary Award, with badges awarded to those who complete the Bronze, Silver or Gold Award.
 
+<section class="image-text">
+
+<img src="/img/corps-atc/20190108_102553.jpg" alt="Cadet in Flight suit">
+
 On top of all this, cadets are also offered inspiring and challenging military-like experiences, access to serving men and women of the NZDF, and are invited to see behind the scenes of  Air Bases, Army Camps and Navy Ships to see another side of the NZDF. 
 
-Depending on their Corps, cadets have a number of courses available to them throughout their NZCF careers. These include both leadership (promotion) courses and specific skill training courses. Units also participate in regional and national skills competitions or regattas.
+</section>
+
+<p class="page-item">Depending on their Corps, cadets have a number of courses available to them throughout their NZCF careers. These include both leadership (promotion) courses and specific skill training courses. Units also participate in regional and national skills competitions or regattas.</p>
+
+<img src="/img/corps-atc/0a1.JPG" alt="Air cadet course">
 
 Click here to learn more about the common [Training Offered to every Cadet](training.html), or what [Regional & National Courses](cadetcourses.html) are available as you progress through the NZCF.
