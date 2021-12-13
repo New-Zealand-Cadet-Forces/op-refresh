@@ -39,11 +39,11 @@ These organisations at local, area and national level help fundraise to support 
 
 For more information about our Recognised Civilian Support Organisations see 
 
-The [SEA CADET CORPS ASSOCIATION OF NEW ZEALAND (SCANZ)]() is there to support local and national civilian interest in the development of the youth of the Sea Cadet Corps (SCC).
+The [SEA CADET CORPS ASSOCIATION OF NEW ZEALAND (SCANZ)](https://www.cadetforces.org.nz/docs/scanz/SCANZ_Consolidated_Constitution_June_2010.pdf) is there to support local and national civilian interest in the development of the youth of the Sea Cadet Corps (SCC).
 
-The [CADET CORPS ASSOCIATION OF NEW ZEALAND (CCANZ)]()
+The [CADET CORPS ASSOCIATION OF NEW ZEALAND (CCANZ)](https://www.cadetforces.org.nz/ccanz.html)
 The Cadet Corps Association of New Zealand (CCANZ).
 
-The [AIR TRAINING CORPS ASSOCIATION OF NEW ZEALAND (ATCANZ)]() was established for the primary purpose of supporting and promoting the interests of the Air Training Corps (ATC)
+The [AIR TRAINING CORPS ASSOCIATION OF NEW ZEALAND (ATCANZ)](http://www.atcanz.org.nz) was established for the primary purpose of supporting and promoting the interests of the Air Training Corps (ATC)
 
 <!-- (link to constitution on existing site, perhaps remove the balance of the documents if they are older than two years old??) -->
