@@ -231,7 +231,7 @@ footer {
 
 .white-box {
   background-color: white;
-  padding: 2em;
+  padding: 3em;
   height: min-content;
 }
 
@@ -242,11 +242,12 @@ footer {
 .text-image {
   display: flex;
   height: auto;
-  margin: $section-gap;
+  margin: $section-gap auto;
   gap: 2em;
+  max-width: $maxWidth + 100;
   img {
     align-self: center;
-    max-width: 650px;
+    max-width: 800px;
   }
   
   h2 {
@@ -275,14 +276,15 @@ footer {
 }
 
 @media screen and (max-width: $maxWidth) {
-  .image-text {
+  .image-text,
+  .text-image {
     margin: 3em 0;
     flex-wrap: wrap;
     div{
       flex: 1 1 100%;
     }
-    .white-box {
-      margin: 0;
+    .white-box, img {
+      margin: 0 auto;
     }
   }
 
