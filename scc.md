@@ -1,5 +1,6 @@
 ---
 layout: default
+banner-image: /img/corps-scc/scc-banner.jpg
 ---
 
 

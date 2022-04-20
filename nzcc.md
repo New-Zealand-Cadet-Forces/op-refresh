@@ -1,5 +1,6 @@
 ---
 layout: default
+banner-image: /img/corps-nzcc/nzcc-banner.jpg
 ---
 
 ## Army Cadets

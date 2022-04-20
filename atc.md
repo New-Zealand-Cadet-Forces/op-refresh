@@ -1,5 +1,6 @@
 ---
 layout: default
+banner-image: /img/corps-atc/atc-banner.jpg
 ---
 
 ## Air Cadets
