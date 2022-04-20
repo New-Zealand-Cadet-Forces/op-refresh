@@ -1,5 +1,6 @@
 ---
 layout: default
+banner-image: /img/Who We Are Original.jpg
 ---
 
 <section>

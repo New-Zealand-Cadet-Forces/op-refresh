@@ -1,5 +1,6 @@
 ---
 layout: default
+banner-image: /img/courses/Cadet Courses Original.jpg
 ---
 
 ## Cadet Local & National Courses

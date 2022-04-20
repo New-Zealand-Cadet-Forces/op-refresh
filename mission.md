@@ -1,5 +1,6 @@
 ---
 layout: default
+banner-image: /img/Our Mission Original.jpg
 ---
 
 ## MISSION, VISION AND VALUES

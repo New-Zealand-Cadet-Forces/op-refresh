@@ -1,5 +1,6 @@
 ---
 layout: default
+banner-image: /img/Structure Original.jpg
 ---
 
 ## NZCF Organisational Structure

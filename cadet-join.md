@@ -1,5 +1,6 @@
 ---
 layout: default
+banner-image: /img/Howtojoin Original.jpg
 ---
 
 ## How to Join - Cadet
@@ -10,7 +11,7 @@ If you've made it to this page then you're probably looking for something out of
 
 Check out this section to answer your questions and help you get started, because joining is only the beginning...
 
-### Are you Eligible?
+### Are you eligible?
 
 Any person between the ages of 13 and 15 years may join the New Zealand Cadet Forces (NZCF). A person may also join if they are 12 years old and presently attending Year 9 in High School. The full consent of your parents or guardians is required to apply, and while under the age of 18, parental consent is required for all training and exercises undertaken.
 
