@@ -4,6 +4,10 @@
     <h1 class="screen-reader-text">New Zealand Cadet Forces</h1>
     {% include main-nav.html %}
     <div class="hero">
-        <img src="/img/parade.png" alt="hero image">
+        {% if page.banner-image %}
+            <img src="{{ page.banner-image }}" alt="banner image">
+        {% else %}
+            <img src="/img/parade.png" alt="hero image">
+        {% endif %}
     </div>
 </header>
