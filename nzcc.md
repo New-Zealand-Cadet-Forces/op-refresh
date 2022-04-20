@@ -7,7 +7,7 @@ banner-image: /img/corps-nzcc/nzcc-banner.jpg
 
 <section class="image-text top">
 
-<img src="/img/corps-nzcc/cadet_corps.JPG" alt="Army cadets crest">
+<img class="corps-page-crest" src="/img/logos/NZCF_ArmyCadets_Logo_2022_Final-01.png" alt="Army cadets crest">
 <p class="lead">The New Zealand Cadet Corps (NZCC), commonly known as Army Cadets, is the arm of the New Zealand Cadet Forces (NZCF) aligned with the New Zealand Army (NZ Army), which is why we have similar uniforms, rank structure and training. A lot of the training, customs and traditions undertaken by the Army Cadets aligns with that of the NZ Army.
 <br>
 The NZCC is one of the three corps in the NZCF, the other two being the Sea Cadet Corps (SCC) and Air Training Corps (ATC), commonly known as the Navy Cadets and Air Cadets respectively. We are supported in partnership between the New Zealand Defence Force (NZDF) and local communities, and our members remain civilians with no obligation to join the regular forces, however some do choose to join the New Zealand Defence Force.</p>

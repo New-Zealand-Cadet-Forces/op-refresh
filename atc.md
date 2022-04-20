@@ -7,7 +7,7 @@ banner-image: /img/corps-atc/atc-banner.jpg
 
 <section class="image-text top">
 
-<img src="/img/corps-atc/ATC_Crest.png" alt="Air cadets crest">
+<img class="corps-page-crest" src="/img/logos/NZCF_AirCadets_Logo_2022_Final.png" alt="Air cadets crest">
 <p class="lead">The Air Training Corps (ATC), commonly known as Air Cadets, is the arm of the New Zealand Cadet Forces (NZCF) aligned with the Royal New Zealand Air Force (RNZAF), which is why we have similar uniforms, rank structure and training. A lot of the training, customs and traditions undertaken by the Air Cadets aligns with that of the RNZAF.
 <br>
 The ATC is one of the three corps in the NZCF, the other two being the New Zealand Cadet Corps (NZCC) and Sea Cadet Corps (SCC), commonly known as the Army Cadets and Navy Cadets respectively. We are supported in partnership between the New Zealand Defence Force (NZDF) and local communities, and our members remain civilians with no obligation to join the regular forces, however some do choose to join the New Zealand Defence Force.</p>
