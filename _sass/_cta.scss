@@ -1,19 +1,40 @@
 .cta-image-block {
-    display: flex;
-    justify-content: space-between;
-    width: 80vw;
+  display: flex;
+  justify-content: space-between;
+  width: 80vw;
   position: relative;
   left: 50%;
   right: 50%;
-  margin-left: -40vw;
-margin-top: 5em;
+  margin: $section-gap 0 $section-gap -40vw;
 }
 
 .cta {
-    flex: 0 0 25%;
-    padding: 0.5em;
+  flex: 0 0 25%;
+  padding: 0.3em;
+  h3 {
+    font-size: 2em;
+    margin-top: 0;
+    line-height: 1.3;
+    font-weight: 500;
+  }
+  p {
+    line-height: 1.8;
+  }
+  figcaption {
+    margin-top: 15px;
+    &::before {
+      content: "\25B8";
+      margin-right: 0.5em;
+      text-decoration: none;
+      display: inline-block;
+    }
+  }
 }
 
 .cta-image {
-    margin:0;
+  margin: 0;
+}
+
+.cta-text {
+  padding: 0 0.5em;
 }

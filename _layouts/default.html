@@ -12,12 +12,14 @@
     <title>New Zealand Cadet Forces</title>
 </head>
 <body>
+  <!-- Pull in site navigation and page banner image (path passed from each page via front matter) -->
     {% include header.html %}
-    <main class="narrow">
+    <main class="narrow"> <!-- Creates a readable width for text on non-home pages -->
         {{ content }}
     </main>    
     {% include footer.html %}
     <script>
+      // Netlify CMS boilerplate stuff
     if (window.netlifyIdentity) {
       window.netlifyIdentity.on("init", user => {
         if (!user) {
