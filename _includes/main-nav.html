@@ -1,7 +1,8 @@
-<nav class="main-nav">
+<nav id="main-nav" class="main-nav" aria-label="Main navigation menu">
     <div id="branding"><a href="/index.html"><img id="main-logo" src="/img/main-logo-white.png" alt="NZCF logo"></a></div>
-    <ul>
-        <li class="dropdown"><a href="/about.html">Who we are</a>
+    <ul class="main-menu clicky-menu no-js"> <!-- From CSS Tricks https://css-tricks.com/in-praise-of-the-unambiguous-click-menu/ -->
+        <li class="dropdown">
+            <button>Who we are</button>
             <ul class="dropdown-content">
                 <li><a href="/about.html">About Us</a></li>
                 <li><a href="/mission.html">Our Mission</a></li>
@@ -9,7 +10,8 @@
                 <li><a href="/history.html">NZCF History</a></li>
             </ul>
         </li>
-        <li class="dropdown"><a href="/training.html">What we do</a>
+        <li class="dropdown">
+            <a>What we do</a>
             <ul class="dropdown-content">
                 <li><a href="/training.html">About Our Training</a></li>
                 <li><a href="/cadetcourses.html">Cadet Courses</a></li>

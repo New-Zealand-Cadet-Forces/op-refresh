@@ -33,9 +33,9 @@ nav {
   background: black;
   display: flex;
   justify-content: flex-start;
-  align-items: center;
+  align-items: center;  
   flex-wrap: wrap;
-  a {
+  a, button {
     text-transform: uppercase;
     color: white;
     padding: 0 1.25rem;
