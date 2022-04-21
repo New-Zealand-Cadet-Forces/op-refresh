@@ -1,5 +1,6 @@
 ---
 layout: default
+banner-image: /img/corps-scc/scc-banner.jpg
 ---
 
 
@@ -7,7 +8,7 @@ layout: default
 
 <section class="image-text top">
 
-<img src="/img/corps-scc/Sea_Cadet_Corps.jpg" alt="Navy cadets crest">
+<img class="corps-page-crest" src="/img/logos/NZCF_SeaCadets_Logo_2022_Final.png" alt="Navy cadets crest">
 <p class="lead">The Sea Cadet Corps (SCC), commonly known as Navy Cadets, is the arm of the New Zealand Cadet Forces (NZCF) aligned with the Royal New Zealand Navy (RNZN), which is why we have similar uniforms, rank structure and training. A lot of the training, customs and traditions undertaken by the Navy Cadets aligns with that of the RNZN. 
 <br>
 The SCC is one of the three corps in the NZCF, the other two being the New Zealand Cadet Corps (NZCC) and Air Training Corps (ATC), commonly known as the Army Cadets and Air Cadets respectively. We are supported in partnership between the New Zealand Defence Force (NZDF) and local communities, and our members remain civilians with no obligation to join the regular forces, however some do choose to join the New Zealand Defence Force.</p>

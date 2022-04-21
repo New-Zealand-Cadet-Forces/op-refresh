@@ -1,5 +1,6 @@
 ---
 layout: default
+banner-image: /img/history/History Original.jpg
 ---
 
 ## History of Cadet Forces

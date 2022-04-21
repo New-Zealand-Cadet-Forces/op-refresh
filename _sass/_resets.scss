@@ -11,6 +11,14 @@ img {
     max-width: 100%;
 }
 
+button {
+    border: none;
+    background: none;
+    font-size: 1em;
+}
+
+input, textarea, button {font-family: inherit}
+
 .screen-reader-text {
     position: absolute;
     top: -9999px;

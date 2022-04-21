@@ -33,15 +33,15 @@ nav {
   background: black;
   display: flex;
   justify-content: flex-start;
-  align-items: center;
+  align-items: center;  
   flex-wrap: wrap;
-  a {
+  a, button {
     text-transform: uppercase;
     color: white;
     padding: 0 1.25rem;
     text-decoration: none;
   }
-  a:hover {
+  a:hover, button:hover {
     text-decoration: underline #f9f9f9;
     text-underline-offset: 0.2em;
   }
@@ -75,11 +75,32 @@ nav {
   }
 }
 
+@media screen and (max-width: 1135px) {
+  .main-nav {
+    display: block;
+    .main-menu {
+      overflow-x: scroll;
+      overflow-y: hidden;
+      display: flex;
+      margin: 0;
+      padding: 1em 0;
+      li {
+        flex-basis: content;
+        flex-shrink: 0;
+        flex-grow: 1;
+      }
+      .dropdown {
+        padding: 0;
+      }
+    }
+  }
+}
+
 /* DROPDOWN STUFF */
 
 li.dropdown {
   display: inline-block;
-  padding: 18px 0;
+  padding: 18px 0; // stops dropdown disappearing
 }
 
 .dropdown-content {
@@ -142,6 +163,20 @@ a.nav-item-em {
   width: 100%;
 }
 
+@media screen and (max-width: 400px) {
+  .corps-nav {
+    padding: 0;
+    a {
+      padding: 0.5em;
+    }
+  }
+  .hero img {
+    object-fit: cover;
+    height: 200px;
+    width: auto;
+  }
+}
+
 main {
   margin: 100px auto;
   // padding: 0 0.8rem; why?
@@ -193,9 +228,9 @@ footer {
   text-align: center;
 }
 
-#three-corps-img {
-  display: block;
+.img-container-wide {
   max-width: $maxWidth;
+  display: block;
   margin: 0 auto;
   padding: 50px 15px;
 }
@@ -238,6 +273,7 @@ footer {
 
 /* IMAGES */
 
+
 .image-text,
 .text-image {
   display: flex;
@@ -247,9 +283,13 @@ footer {
   max-width: $maxWidth + 100;
   img {
     align-self: center;
+  }
+  img.corps-page-crest {
+    max-width: 350px;
+  }
+  div {
     max-width: 800px;
   }
-  
   h2 {
     margin-top: 0;
   }
@@ -299,4 +339,5 @@ footer {
     }
   }
 }
+
 

@@ -1,5 +1,6 @@
 ---
 layout: default
+banner-image: /img/Officers Original.jpg
 ---
 
 ## How to Join - Officer or Adult Supervisor
