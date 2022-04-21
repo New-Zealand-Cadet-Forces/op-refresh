@@ -163,6 +163,20 @@ a.nav-item-em {
   width: 100%;
 }
 
+@media screen and (max-width: 400px) {
+  .corps-nav {
+    padding: 0;
+    a {
+      padding: 0.5em;
+    }
+  }
+  .hero img {
+    object-fit: cover;
+    height: 200px;
+    width: auto;
+  }
+}
+
 main {
   margin: 100px auto;
   // padding: 0 0.8rem; why?
