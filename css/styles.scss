@@ -41,7 +41,7 @@ nav {
     padding: 0 1.25rem;
     text-decoration: none;
   }
-  a:hover {
+  a:hover, button:hover {
     text-decoration: underline #f9f9f9;
     text-underline-offset: 0.2em;
   }
@@ -78,8 +78,20 @@ nav {
 @media screen and (max-width: 1135px) {
   .main-nav {
     display: block;
-    ul {
-      display: none;
+    .main-menu {
+      overflow-x: scroll;
+      overflow-y: hidden;
+      display: flex;
+      margin: 0;
+      padding: 1em 0;
+      li {
+        flex-basis: content;
+        flex-shrink: 0;
+        flex-grow: 1;
+      }
+      .dropdown {
+        padding: 0;
+      }
     }
   }
 }
@@ -88,7 +100,7 @@ nav {
 
 li.dropdown {
   display: inline-block;
-  padding: 18px 0;
+  padding: 18px 0; // stops dropdown disappearing
 }
 
 .dropdown-content {
