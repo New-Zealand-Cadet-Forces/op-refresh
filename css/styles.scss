@@ -75,6 +75,15 @@ nav {
   }
 }
 
+@media screen and (max-width: 1135px) {
+  .main-nav {
+    display: block;
+    ul {
+      display: none;
+    }
+  }
+}
+
 /* DROPDOWN STUFF */
 
 li.dropdown {
@@ -304,4 +313,5 @@ footer {
     }
   }
 }
+
 
