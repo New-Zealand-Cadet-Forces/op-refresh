@@ -20,11 +20,6 @@ banner-image: /img/Who We Are Original.jpg
     Any unit of the Cadet Forces must be attached to the Air Training Corps, New Zealand Cadet Corps or Sea Cadet Corps.</p>
 </section>
 <section>
-    <h2>History</h2>
-    <p>The first unit raised was at Otago Boys High School in 1864, making it one of the oldest youth service organisations in New Zealand. By 1870 there were several secondary school units in existence.</p>
-    <p>The NZCF celebrated its 150th anniversary in January 2014, with an exercise held at Waiouru Military Camp.</p>
-</section>
-<section>
     <h2>NZCF Activities</h2>
     <p>The NZDF funds and co-ordinates several national and regional courses for the Cadet Forces, which are staffed with a mix of Regular Force (RF) and Cadet Force (CF) personnel. Tri Corps promotional courses normally are held in each area twice per year depending on requirements, and essentially hold the same format as their RF equivalents.</p>
     <p>Units also hold recognised activities throughout the year, including outdoor and adventure training such as</p>
