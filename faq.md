@@ -21,7 +21,7 @@ The majority of cadets serve for up to four years. After that, if you are a seni
 Yes, there are over 95 Units across New Zealand that you could transfer to.
 
 ### What does the New Zealand Defence Force provide cadets with?
-The NZDF provides you with a uniform, except for footwear. They supply our Defence Force advisors and organise and pay for all the promotion courses you may be selected to attend. They also provide the subjects you will study.
+The NZDF provides you with a uniform, except for dress uniform footwear. They supply our Defence Force advisors and organise and pay for all the promotion courses you may be selected to attend. They also provide the subjects you will study.
 
 ### Do you have to wear a uniform? 
 Yes. Uniforms are issued at no cost, although some units may charge a uniform bond. All items are supplied a few weeks after joining, and must be returned at the completion of your cadet career.
@@ -76,15 +76,13 @@ The NZCF does not tolerate unacceptable behaviour of any kind. All cadets and st
 No, Cadet Forces is a youth development organisation and is not part of NZ Defence Forces.
 
 ### How much does it cost?
-Each Cadet Unit sets its own fees, payable by term or by the year. Many Branch Support Committees set fees depending on their viability. 
+Each Cadet Unit sets its own fees, payable by term or by the year. Many Branch Support Committees set fees depending on their viability.
 
-Most units have additional costs for weekend activities and these range depending on what the unit is undertaking. It also depends on whether the unit's Branch Support committee is subsidising the activity.
+Most units have additional costs for weekend activities and these range depending on what the unit is undertaking. It also depends on whether the unit’s Branch Support committee is subsidising the activity.
 
-You will be asked to fund your child's footwear; the Defence Force do not supply this. Units parade in black shoes and, as many High Schools have black shoes as part of their uniform, these can be worn on training nights.
+You will be asked to fund your child’s dress uniform footwear; the Defence Force do not supply this. Units dress parade in black shoes and, as many High Schools have black shoes as part of their uniform, these can be worn on training nights. Most cadets end up buying a second pair just for cadets because they often don’t want to be seen at school in highly polished shoes.
 
-Most cadets end up buying a second pair just for cadets because they often don't want to be seen at school in highly polished shoes. Some cadets also purchase combat style boots to go with their field clothing. A number of units can source these at competitive prices.
-
-You are invited to approach the unit of your child's choice and ask them for their fee structure, if applicable, and what sort of additional costs that particular unit can foresee. Please contact the Unit you are interested in joining for further details.
+You are invited to approach the unit of your child’s choice and ask them for their fee structure, if applicable, and what sort of additional costs that particular unit can foresee. Please contact the Unit you are interested in joining for further details.
 
 ### Can I get NZQA credits for my learning while in Cadets?
 Yes. Many cadet units are incorporating NZQA unit standards into their training programme. You can have the units you achieve placed on your NZQA record of learning after you have paid the credit recording fee.
