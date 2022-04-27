@@ -9,7 +9,7 @@ banner-image: /img/Who We Are Original.jpg
     <p>
     The Cadet Forces is made up of three branches or corps. Each corps is modeled on a corresponding branch of the New Zealand Defence Force (NZDF), the Royal New Zealand Air Force (RNZAF), the New Zealand Army and the Royal New Zealand Navy (RNZN). Each corps has its own training curriculum, uniforms and organisational structures aligned with its parent regular force branch.</p>
     <p>
-    Through its three branches, the Cadet Forces provides personnel with a four-year training curriculum, while a number of unit, area and national courses provide further experience and qualifications in specific training areas. It is jointly funded by the Chief of Defence Force and four national recognised Civilian Support Organisations. The NZCF is a non-profit organisation for the youth of New Zealand and their youth leaders, and adheres to a strict <a href="https://www.cadetnet.org.nz/wp-content/uploads/2021/11/NZCF_Code_of_Conduct.pdf">Code of Conduct.</a></p>
+    Through its three branches, the Cadet Forces provides personnel with a four-year training curriculum, while a number of unit, area and national courses provide further experience and qualifications in specific training areas. It is jointly funded by the Chief of Defence Force and four national recognised Civilian Support Organisations. The NZCF is a non-profit organisation for the youth of New Zealand and their youth leaders, and adheres to a strict <a href="https://www.cadetnet.org.nz/wp-content/uploads/documents/NZCF_Code_of_Conduct.pdf">Code of Conduct.</a></p>
 </section>
 <section>
     <h2>Legal Status</h2>
