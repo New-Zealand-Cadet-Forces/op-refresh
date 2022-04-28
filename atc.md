@@ -16,7 +16,7 @@ The ATC is one of the three corps in the NZCF, the other two being the New Zeala
 
 <p class="page-item">If you decide to become an Air Cadet, you’ll receive all of the common training that every member of the NZCF receives, but you’ll also receive the Corps Training which is specific to the Air Cadets! You don't necessarily need to have a strong interest in aviation as Cadet Units offer a wide variety of training and experiences that are unique to the NZCF, and you will learn valuable life and work skills that will open up new possibilities, opportunities and career options. You will be part of a team, develop leadership and survival skills, make new friends, experience challenges and learn to take responsibility.</p>
 
-<img src="/img/corps-atc/20141109_WN_S1015650_0009.jpg" alt="Air cadets" class="page-item">
+<img src="/img/corps-atc/Air_cadet_update.jpg" alt="Air cadets" class="page-item">
 
 Air Cadet Units hold activities throughout the year, including outdoor and adventure training such as:
 
@@ -38,7 +38,7 @@ Air Cadet Units hold activities throughout the year, including outdoor and adven
 
 <section class="image-text">
 
-<img src="/img/corps-atc/20190108_102553.jpg" alt="Cadet in Flight suit">
+<img src="/img/corps-atc/air_update_1.jpg" alt="Cadets in Flight suits">
 
 On top of all this, cadets are also offered inspiring and challenging military-like experiences, access to serving men and women of the NZDF, and are invited to see behind the scenes of  Air Bases, Army Camps and Navy Ships to see another side of the NZDF. 
 

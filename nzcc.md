@@ -16,7 +16,7 @@ The NZCC is one of the three corps in the NZCF, the other two being the Sea Cade
 
 <p class="page-item">If you decide to become an Army Cadet, you’ll receive all of the common training that every member of the NZCF receives, but you’ll also receive the Corps Training which is specific to the Army Cadets! You don't necessarily need to have a strong interest in bushcraft as Cadet Units offer a wide variety of training and experiences that are unique to the NZCF, and you will learn valuable life and work skills that will open up new possibilities, opportunities and career options. You will be part of a team, develop leadership and survival skills, make new friends, experience challenges and learn to take responsibility.</p>
 
-<img src="/img/corps-nzcc/7.JPG" alt="Army cadets" class="page-item">
+<img src="/img/corps-nzcc/amry_cadet_update.jpg" alt="Army cadets" class="page-item">
 
 Army Cadet Units hold recognised activities throughout the year, including outdoor and adventure training such as:
 
