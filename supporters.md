@@ -1,5 +1,6 @@
 ---
 layout: default
+banner-image: /img/supporters/Supporters Original.jpg
 ---
 
 ## Our Supporters

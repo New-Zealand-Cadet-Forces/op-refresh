@@ -1,5 +1,6 @@
 ---
 layout: default
+banner-image: /img/FAQ original.jpg
 ---
 
 ## Frequently asked questions

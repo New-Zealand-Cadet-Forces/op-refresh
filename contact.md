@@ -1,5 +1,6 @@
 ---
 layout: default
+banner-image: /img/Contact_Us Original.jpg
 ---
 
 ## Contact us
