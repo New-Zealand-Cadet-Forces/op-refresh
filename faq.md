@@ -3,6 +3,16 @@ layout: default
 banner-image: /img/FAQ original.jpg
 ---
 
+<style>
+*[id]:before { 
+  display: block; 
+  content: " "; 
+  margin-top: -75px; 
+  height: 75px; 
+  visibility: hidden; 
+}
+</style>
+
 ## Frequently asked questions
 {:.no_toc}
 
