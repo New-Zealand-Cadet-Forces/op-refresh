@@ -384,3 +384,18 @@ form {
     margin-left: .5em;
   }
 }
+
+/* Reusable join now button */
+
+.join-btn {
+  border-radius: 5px;
+  background-color: $yellow;
+  padding: 1em;
+  text-decoration: none;
+  font-size: larger;
+}
+
+.btn-container {
+  text-align: center;
+  margin: 5em;
+}

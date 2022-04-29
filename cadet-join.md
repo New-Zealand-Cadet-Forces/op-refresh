@@ -53,4 +53,8 @@ Joining as a Cadet is very easy, and we recommend the following steps to visit y
 * **Make the decision** - When you have made the decision that Cadet Forces is for you, the Unit staff will give you an enrolment form to fill in and ask your parent/guardian to sign.
 * **Enjoy the experience!**
 
-Now that you have joined, it is up to you how much you want to experience.  We will do our best to provide you with as many opportunities as possible.
+Now that you have joined, it is up to you how much you want to experience.  We will do our best to provide you with as many opportunities as possible.  
+
+<div class="btn-container">
+    <a href="https://www.cadetforces.org.nz/units.html" class="join-btn">Join now!</a>
+</div>
