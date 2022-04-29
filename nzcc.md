@@ -33,7 +33,7 @@ Army Cadet Units hold recognised activities throughout the year, including outdo
 
 <section class="image-text">
 
-<img src="/img/corps-nzcc/DSC00209.jpg" alt="Confidence course">
+<div><img src="/img/corps-nzcc/DSC00209.jpg" alt="Confidence course"></div>
 
 <p>On top of all this, cadets are also offered inspiring and challenging military-like experiences, access to serving men and women of the NZDF, and are invited to see behind the scenes of  Air Bases, Army Camps and Navy Ships to see another side of the NZDF. </p>
 

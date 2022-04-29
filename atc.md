@@ -38,9 +38,9 @@ Air Cadet Units hold activities throughout the year, including outdoor and adven
 
 <section class="image-text">
 
-<img src="/img/corps-atc/air_update_1.jpg" alt="Cadets in Flight suits">
+<div><img src="/img/corps-atc/air_update_1.jpg" alt="Cadets in Flight suits"></div>
 
-On top of all this, cadets are also offered inspiring and challenging military-like experiences, access to serving men and women of the NZDF, and are invited to see behind the scenes of  Air Bases, Army Camps and Navy Ships to see another side of the NZDF. 
+<div><p>On top of all this, cadets are also offered inspiring and challenging military-like experiences, access to serving men and women of the NZDF, and are invited to see behind the scenes of  Air Bases, Army Camps and Navy Ships to see another side of the NZDF.</p></div>
 
 </section>
 
