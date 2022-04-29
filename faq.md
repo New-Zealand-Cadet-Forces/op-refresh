@@ -4,10 +4,14 @@ banner-image: /img/FAQ original.jpg
 ---
 
 ## Frequently asked questions
+{:.no_toc}
 
 <p class="lead">As a parent or future cadet you are bound to have plenty of questions about the New Zealand Cadet Forces. This site should give you an overview of the activities, structure and expectations we have of our cadets, as well as outline the process to join.</p>
 
 Below are some of the common questions we get. If there is something we haven't covered, or you have further questions, do get in touch with your local Cadet Unit as they will be happy to assist you with any further enquiries that you may have. 
+
+* Contents
+{:toc}
 
 ### Can both girls and boys join?
 Yes.
