@@ -1,5 +1,5 @@
 ---
 name: comdt
-display_name: Commander Andrew Law
+display_name: {{ site.commandant }}
 position: Commandant, NZCF
 ---

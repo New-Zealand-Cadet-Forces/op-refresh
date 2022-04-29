@@ -11,7 +11,7 @@ The NZDF provides 27 Regular Force personnel and six NZDF civilian employees to 
 
 There are three Cadet Force Training Support Units (CFTSUs), each covering a Cadet Force region and operating from an NZDF establishment. Northern Area CFTSU is based at RNZAF Base Auckland in Whenuapai, Auckland; Central Area CFTSU at RNZAF Base Ohakea near Palmerston North; and Southern Area CFTSU at Burnham Military Camp just South of Christchurch.
 
-The New Zealand Cadet Forces is under the command of the Commandant NZCF, Commander Andrew Law, RNZN. The Commandant of the NZCF is given a three-year appointment.
+The New Zealand Cadet Forces is under the command of the Commandant NZCF, {{ site.commandant }}. The Commandant of the NZCF is given a three-year appointment.
 
 Working alongside the NZDF personnel are NZCF Officers and Senior Cadets from all three Corps appointed to key strategic, operational and tactical positions.
 
