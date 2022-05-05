@@ -52,5 +52,5 @@ banner-image: /img/Contact_Us Original.jpg
 </div> <!--Contact container -->
 
 <div class="btn-container">
-    <a href="https://www.cadetforces.org.nz/units.html" class="join-btn">Join now!</a>
+    <a href="/units" class="join-btn">Join now!</a>
 </div>
