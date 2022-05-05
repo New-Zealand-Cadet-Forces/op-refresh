@@ -1,12 +1,13 @@
 ---
 layout: default
+banner-image: /img/corps-nzcc/nzcc-banner.jpg
 ---
 
 ## Army Cadets
 
 <section class="image-text top">
 
-<img src="/img/corps-nzcc/cadet_corps.JPG" alt="Army cadets crest">
+<img class="corps-page-crest" src="/img/logos/NZCF_ArmyCadets_Logo_2022_Final-01.png" alt="Army cadets crest">
 <p class="lead">The New Zealand Cadet Corps (NZCC), commonly known as Army Cadets, is the arm of the New Zealand Cadet Forces (NZCF) aligned with the New Zealand Army (NZ Army), which is why we have similar uniforms, rank structure and training. A lot of the training, customs and traditions undertaken by the Army Cadets aligns with that of the NZ Army.
 <br>
 The NZCC is one of the three corps in the NZCF, the other two being the Sea Cadet Corps (SCC) and Air Training Corps (ATC), commonly known as the Navy Cadets and Air Cadets respectively. We are supported in partnership between the New Zealand Defence Force (NZDF) and local communities, and our members remain civilians with no obligation to join the regular forces, however some do choose to join the New Zealand Defence Force.</p>
@@ -15,7 +16,7 @@ The NZCC is one of the three corps in the NZCF, the other two being the Sea Cade
 
 <p class="page-item">If you decide to become an Army Cadet, you’ll receive all of the common training that every member of the NZCF receives, but you’ll also receive the Corps Training which is specific to the Army Cadets! You don't necessarily need to have a strong interest in bushcraft as Cadet Units offer a wide variety of training and experiences that are unique to the NZCF, and you will learn valuable life and work skills that will open up new possibilities, opportunities and career options. You will be part of a team, develop leadership and survival skills, make new friends, experience challenges and learn to take responsibility.</p>
 
-<img src="/img/corps-nzcc/7.JPG" alt="Army cadets" class="page-item">
+<img src="/img/corps-nzcc/amry_cadet_update.jpg" alt="Army cadets" class="page-item">
 
 Army Cadet Units hold recognised activities throughout the year, including outdoor and adventure training such as:
 
@@ -32,7 +33,7 @@ Army Cadet Units hold recognised activities throughout the year, including outdo
 
 <section class="image-text">
 
-<img src="/img/corps-nzcc/DSC00209.jpg" alt="Confidence course">
+<div><img src="/img/corps-nzcc/DSC00209.jpg" alt="Confidence course"></div>
 
 <p>On top of all this, cadets are also offered inspiring and challenging military-like experiences, access to serving men and women of the NZDF, and are invited to see behind the scenes of  Air Bases, Army Camps and Navy Ships to see another side of the NZDF. </p>
 

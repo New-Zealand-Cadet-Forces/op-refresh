@@ -1,5 +1,6 @@
 ---
 layout: default
+banner-image: /img/courses/Officer Courses Original.jpg
 ---
 
 ## Officer Courses

@@ -1,5 +1,6 @@
 ---
 layout: default
+banner-image: /img/Who We Are Original.jpg
 ---
 
 <section>
@@ -8,7 +9,7 @@ layout: default
     <p>
     The Cadet Forces is made up of three branches or corps. Each corps is modeled on a corresponding branch of the New Zealand Defence Force (NZDF), the Royal New Zealand Air Force (RNZAF), the New Zealand Army and the Royal New Zealand Navy (RNZN). Each corps has its own training curriculum, uniforms and organisational structures aligned with its parent regular force branch.</p>
     <p>
-    Through its three branches, the Cadet Forces provides personnel with a four-year training curriculum, while a number of unit, area and national courses provide further experience and qualifications in specific training areas. It is jointly funded by the Chief of Defence Force and four national recognised Civilian Support Organisations. The NZCF is a non-profit organisation for the youth of New Zealand and their youth leaders, and adheres to a strict <a href="https://www.cadetnet.org.nz/wp-content/uploads/2021/11/NZCF_Code_of_Conduct.pdf">Code of Conduct.</a></p>
+    Through its three branches, the Cadet Forces provides personnel with a four-year training curriculum, while a number of unit, area and national courses provide further experience and qualifications in specific training areas. It is jointly funded by the Chief of Defence Force and four national recognised Civilian Support Organisations. The NZCF is a non-profit organisation for the youth of New Zealand and their youth leaders, and adheres to a strict <a href="https://www.cadetnet.org.nz/wp-content/uploads/documents/NZCF_Code_of_Conduct.pdf">Code of Conduct.</a></p>
 </section>
 <section>
     <h2>Legal Status</h2>
@@ -17,11 +18,6 @@ layout: default
     The NZCF is not part of the NZDF, but is maintained under the direction of the Chief of Defence Force (CDF) on behalf of the Minister of Defence and is covered by the Defence Act 1990. The Minister of Defence holds ultimate control, with the CDF in a compulsory directorial role. Aspects of the CDF delegation are then sub-delegated to the Commandant NZCF who is responsible for the strategic direction and operational functioning of the organisation.</p>
     <p>
     Any unit of the Cadet Forces must be attached to the Air Training Corps, New Zealand Cadet Corps or Sea Cadet Corps.</p>
-</section>
-<section>
-    <h2>History</h2>
-    <p>The first unit raised was at Otago Boys High School in 1864, making it one of the oldest youth service organisations in New Zealand. By 1870 there were several secondary school units in existence.</p>
-    <p>The NZCF celebrated its 150th anniversary in January 2014, with an exercise held at Waiouru Military Camp.</p>
 </section>
 <section>
     <h2>NZCF Activities</h2>

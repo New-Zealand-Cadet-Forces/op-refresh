@@ -1,5 +1,6 @@
 ---
 layout: default
+banner-image: /img/courses/Cadet Courses Original.jpg
 ---
 
 ## Cadet Local & National Courses
@@ -62,6 +63,10 @@ The RNZAF Flying Immersion Course provides Air Cadets cadets, who have expressed
 
 The Shooting Coaches Course is open to both NZCF Officers and Senior NCOs. The course teaches the knowledge, skills and attitudes required to coach firers on
 the .22 Marlin rifle, so that they can employ best marksmanship principles. Students will qualify as a safety supervisor and are able to apply the knowledge gained to coach cadets to improve their marksmanship. 
+
+#### Drone Operators Course
+
+The Drone Operators Course is available to all cadets who have completed their first year of training. Its a three day weekend course that covers the theory aspects of drones, pre-flight preparations and drone flying. Cadets are taught the technical skills, rules and regulations associated with them and also get to fly and develop their skills with the drones.
 
 
 ### Our Competitions

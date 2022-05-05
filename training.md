@@ -1,5 +1,6 @@
 ---
 layout: default
+banner-image: /img/What We Do Original.jpg
 ---
 
 ## NZCF Training Overview
