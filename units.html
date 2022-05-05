@@ -1,0 +1,179 @@
+---
+layout: default
+---
+
+<h2>Find your nearest unit</h2>
+
+Use the map below to find a Cadet Forces Unit near you.
+
+<div class="entry-content">
+	<div id="map" class="slp_map"></div>
+	<input type="text" id="pac-input" placeholder="Enter an address or zip code" />
+</div>
+	
+<style>
+	#map { width: 100%; height: 700px; }
+	.results_wrapper:nth-child(even){ background-color: rgba(0,0,0,0.05); }
+	.results_row_left_column,
+	.results_row_center_column,
+	.results_row_right_column { float: left; width: 30%; padding-left: 1%; }
+	.results_wrapper { overflow:hidden; }
+
+	#pac-input {
+			background-color: #fff;
+			font-family: Roboto;
+			font-size: 15px;
+			font-weight: 300;
+			margin-left: 12px;
+			padding:  11px 0 13px;
+			text-overflow: ellipsis;	
+			width: 400px;
+		}
+
+		#pac-input:focus {
+		border-color: #4d90fe;
+		}
+</style>
+											
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+
+<div id="dialog"></div>		
+<script type="text/javascript">
+//		google.maps.event.addDomListener(window, 'load', initialize);
+	function initialize() {
+
+		var mapOptions = {
+			center: new google.maps.LatLng(-41.304824, 174.801364),
+			zoom: 6,
+			mapTypeId: google.maps.MapTypeId.ROADMAP
+		};
+
+		var infoWindow = new google.maps.InfoWindow();
+		var map = new google.maps.Map(document.getElementById("map"), mapOptions);
+		var markers = [];
+
+		$.getJSON('https://www.cadetnet.org.nz/wp-admin/admin-ajax.php?action=unit', function(data) {
+			$.each( data, function(i, value) {
+				// Default to a generic NZCF pin
+				var pin_icon = 'img/map/pin-nzcf.png';
+				// Single corps units in ascending order of priority
+				if( parseInt( value['unit_corps'] ) == 1 ) {
+					var pin_icon = 'img/map/pin-atc.png';
+				}
+				if( parseInt( value['unit_corps'] ) == 2 ) {
+					var pin_icon = 'img/map/pin-nzcc.png';
+				}
+				if( parseInt( value['unit_corps'] ) == 4 ) {
+					var pin_icon = 'img/map/pin-scc.png';
+				}
+				// If we want animations:
+				// https://stackoverflow.com/questions/39825719/how-to-create-google-maps-custom-marker-which-has-an-animating-gif
+				var marker = new google.maps.Marker({
+					position: new google.maps.LatLng(
+						parseFloat(value['unit_latitude']), 
+						parseFloat(value['unit_longitude'])
+					),
+					icon: {
+						url: pin_icon,
+						size: new google.maps.Size(80, 80),
+						//scaledSize: new google.maps.Size(80, 80),
+						//anchor: new google.maps.Point(0, 0),
+						origin: new google.maps.Point(0, 0)
+					}, 
+					map: map,
+					title:	value['unit_medium']+"\n"+
+						(value['unit_url']?value['unit_url']+"\n":"")+"\n"+
+						value['unit_address_1']+(value['unit_address_2']?",\n"+value['unit_address_2']:"")+",\n"+
+						value['unit_city']+" "+value['unit_zip']+"\n\n"+
+						value['unit_hours']+"\n"+
+						(value['unit_phone']?"Tel: "+value['unit_phone']+"\n":"")+
+						(value['unit_email']?"Email: "+value['unit_email']+"\n":"")
+				});
+				marker.addListener('click', function(e){
+					jQuery('#dialog').html(''+
+							'<img src="https://www.cadetnet.org.nz/wp-content/uploads/wpnzcfcn/unitlogos/'+value['value']+'.png" style="float:right;" />'+
+							'<h2 style="font-size:150%;">'+value['unit_long']+'</h2>'+
+							'<article><address>'+
+							(value['unit_url']?'<a href="'+value['unit_url']+'" target="_blank">'+value['unit_url']+'</a><br />':"")+
+							value['unit_address_1']+(value['unit_address_2']?",<br />"+value['unit_address_2']:"")+"<br />"+
+							value['unit_city']+" "+value['unit_zip']+"<br /><br />"+
+							value['unit_hours']+"<br />"+
+							(value['unit_phone']?"Tel: "+value['unit_phone']+"<br />":"")+
+							(value['unit_email']?"Email: <a href='mailto:"+value['unit_email']+"'>"+value['unit_email']+"</a><br />":"")+
+							'</address></article>'+
+					'').dialog({
+						title: value['unit_long'],
+						width: "600px",
+						modal: true
+					}).css({fontSize:'75%'});
+				});
+				markers.push(marker);
+			});
+			// Add a marker clusterer to manage the markers.
+			var markerCluster = new MarkerClusterer(map, markers, { imagePath: './img/m', gridSize: 50 });
+		});
+
+		// Create the search box and link it to the UI element.
+		var input = document.getElementById('pac-input');
+		var searchBox = new google.maps.places.SearchBox(input);
+		map.controls[google.maps.ControlPosition.TOP_LEFT].push(input);
+
+		// Bias the SearchBox results towards current map's viewport.
+		map.addListener('bounds_changed', function() {
+			searchBox.setBounds(map.getBounds());
+		});
+
+		var markers = [];
+		searchBox.addListener('places_changed', function() {
+			var places = searchBox.getPlaces();
+
+			if (places.length == 0) {
+				return;
+			}
+
+			// Clear out the old markers.
+			markers.forEach(function(marker) {
+				marker.setMap(null);
+			});
+			markers = [];
+
+			// For each place, get the icon, name and location.
+			var bounds = new google.maps.LatLngBounds();
+			places.forEach(function(place) {
+				if (!place.geometry) {
+					console.log("Returned place contains no geometry");
+					return;
+				}
+				var icon = {
+					url: place.icon,
+					size: new google.maps.Size(71, 71),
+					origin: new google.maps.Point(0, 0),
+					anchor: new google.maps.Point(17, 34),
+					scaledSize: new google.maps.Size(64, 64)
+				};
+	
+				// Create a marker for each place.
+				markers.push(new google.maps.Marker({
+					map: map,
+					icon: icon,
+					title: place.name,
+					position: place.geometry.location
+				}));
+
+				if (place.geometry.viewport) {
+					// Only geocodes have viewport.
+					bounds.union(place.geometry.viewport);
+				} else {
+					bounds.extend(place.geometry.location);
+				}
+			});
+			map.fitBounds(bounds);
+		});
+
+	}
+</script>		
+<script src="./js/markerclusterer.js"></script>
+<script async defer type='text/javascript' src='https://maps.googleapis.com/maps/api/js?libraries=places&callback=initialize&language=en&#038;region=NZ&#038;ver=4.7.5&#038;key=AIzaSyDQYTWWop_HvAzV5fq6FM-FXExE1PqER2s'></script>
+
