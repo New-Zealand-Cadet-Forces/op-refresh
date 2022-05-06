@@ -59,5 +59,5 @@ We’ve identified some essential characteristics that we look for in our volunt
 Cadet Force officers are unpaid volunteers. However, you do get paid when attending NZCF authorised courses as a student or a staff member.
 
 <div class="btn-container">
-    <a href="https://www.cadetforces.org.nz/units.html" class="join-btn">Join now!</a>
+    <a href="/units" class="join-btn">Join now!</a>
 </div>
