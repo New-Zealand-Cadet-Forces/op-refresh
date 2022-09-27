@@ -28,8 +28,13 @@ banner-image: /img/Contact_Us Original.jpg
   <div id="contact-form">
     <h3>Message HQ</h3>
     <p>Note: all form fields are required</p>
-    <form name="contact" method="POST" data-netlify="true">
+    <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
       <ul>
+        <li style="display:none">
+          <label>
+            Don’t fill this out if you’re human: <input name="bot-field" />
+          </label>
+        </li>
         <li>
           <label for="name">Name:</label>
           <input type="text" id="name" name="user_name" required>
