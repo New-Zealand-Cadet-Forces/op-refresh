@@ -47,7 +47,7 @@ banner-image: /img/Contact_Us Original.jpg
           <label for="msg">Message:</label>
           <textarea id="msg" name="user_message" required></textarea>
         </li>
-        <li><div data-netlify-recaptcha="true"></div></li>
+        <li><label for="recaptcha">reCAPTCHA:</label><div data-netlify-recaptcha="true"></div></li>
         <li class="button">
           <button type="submit">Send your message</button>
         </li>
