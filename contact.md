@@ -28,7 +28,7 @@ banner-image: /img/Contact_Us Original.jpg
   <div id="contact-form">
     <h3>Message HQ</h3>
     <p>Note: all form fields are required</p>
-    <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+    <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify-recaptcha="true" data-netlify="true">
       <ul>
         <li style="display:none">
           <label>
@@ -47,6 +47,7 @@ banner-image: /img/Contact_Us Original.jpg
           <label for="msg">Message:</label>
           <textarea id="msg" name="user_message" required></textarea>
         </li>
+        <li><div data-netlify-recaptcha="true"></div></li>
         <li class="button">
           <button type="submit">Send your message</button>
         </li>
