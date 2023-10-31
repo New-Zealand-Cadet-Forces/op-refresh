@@ -4,7 +4,7 @@ banner-image: /img/FAQ original.jpg
 ---
 
 <style>
-*[id]:before { 
+h3[id]:before { 
   display: block; 
   content: " "; 
   margin-top: -75px; 
