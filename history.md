@@ -12,6 +12,8 @@ The first unit raised was at Otago Boys High School in 1864, making it the oldes
 
 ![Dunedin High School Cadets 1864](img/history/1864.jpg)
 
+*Collection of Toitū Otago Settlers Museum, 1907/38/2*
+
 ### 1903-1940 Senior Cadets (Later School Cadets)
 The Defence Act of 1909 created the Territorial Force, which was aimed at having a compulsory part-time force where civilians would be given basic military training. The goal was to have 27,000 Territorial 18-19yr olds, with another 38,000 cadets (Junior Cadets 12-14, and Senior Cadets 14-18yrs). The Senior Cadets were to feed into the General Training Section (18yrs-21yrs), until moving to the Reserves from 21yrs- 30yrs.
 
